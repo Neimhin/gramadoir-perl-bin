@@ -1,0 +1,65 @@
+#!/usr/bin/perl
+use 5.010;
+use lib '..';
+use strict;
+use warnings;
+use utf8;
+use CGI qw/:standard/;
+use DateTime;
+use JSON qw( to_json );
+use Encode qw( encode decode FB_CROAK LEAVE_SRC );
+use Log::Dispatch::File;
+use Date::Format;
+use Lingua::GA::Gramadoir;
+use Data::Dumper;
+use I18N::Langinfo qw(langinfo CODESET);
+my $codeset = langinfo(CODESET);
+print($codeset);
+
+
+my $VERSION = '0.70';
+$CGI::DISABLE_UPLOADS = 1;
+$CGI::POST_MAX = 16384;
+$ENV{PATH}="/bin:/usr/bin";
+delete @ENV{ 'IFS', 'CDPATH', 'ENV', 'BASH_ENV' };
+my $logfile = "/tmp/gram-api.log";
+
+binmode STDIN, ":utf8";
+binmode STDOUT, ":utf8";
+binmode STDERR, ":utf8";
+my $input = "";
+while(<>) {
+	my $l = decode($codeset,"$_");
+	$input = "$input\n$l"
+}
+
+my $gr = new Lingua::GA::Gramadoir(
+	fix_spelling => 1,
+	use_ignore_file => 0,
+	unigram_tagging => 1,
+	interface_language => 'en',
+	input_encoding => 'utf-8',
+);
+
+my $errs = $gr->grammatical_errors(encode('UTF-8', $input));
+my @errs_json;
+foreach my $error (@$errs) {
+	(my $fy, my $fx, my $toy, my $tox, my $ruleId, my $msg, my $context, my $contextoffset, my $errorlength) = $error =~ m/^<error fromy="([0-9]+)" fromx="([0-9]+)" toy="([0-9]+)" tox="([0-9]+)" ruleId="([^"]+)" msg="([^"]+)".* context="([^"]+)" contextoffset="([0-9]+)" errorlength="([0-9]+)"\/>$/;
+	my $errortext = substr($context,$contextoffset,$errorlength);
+	push @errs_json, {'fromy' => $fy,
+						'fromx' => $fx,
+						'toy' => $toy,
+						'tox' => $tox,
+						'ruleId' => $ruleId,
+						'msg' => $msg,
+						'context' => $context,
+						'contextoffset' => $contextoffset,
+						'errorlength' => $errorlength,
+						'errortext' => $errortext,
+					};
+}
+
+foreach my $error (@errs_json) {
+	print Dumper(\%$error);
+}
+exit 0;
