@@ -1,0 +1,56 @@
+#!/usr/bin/perl
+use 5.010;
+use lib '..';
+use strict;
+use warnings;
+use utf8;
+use CGI qw/:standard/;
+use DateTime;
+use Encode qw( encode decode FB_CROAK LEAVE_SRC );
+use JSON::MaybeXS;
+use Log::Dispatch::File;
+use Date::Format;
+use Lingua::GA::Gramadoir;
+use Data::Dumper;
+use I18N::Langinfo qw(langinfo CODESET);
+my $codeset = langinfo(CODESET);
+
+
+my $VERSION = '0.70';
+$CGI::DISABLE_UPLOADS = 1;
+$CGI::POST_MAX = 16384;
+$ENV{PATH}="/bin:/usr/bin";
+delete @ENV{ 'IFS', 'CDPATH', 'ENV', 'BASH_ENV' };
+my $logfile = "/tmp/gram-api.log";
+
+binmode STDIN, ":encoding(utf8)";
+binmode STDOUT, ":encoding(utf8)";
+binmode STDERR, ":encoding(utf8)";
+
+my $gr = new Lingua::GA::Gramadoir(
+	fix_spelling => 1,
+	use_ignore_file => 0,
+	unigram_tagging => 1,
+	interface_language => 'en',
+	input_encoding => 'utf-8',
+);
+
+my $input = "";
+while(<>) {
+	my $l = decode($codeset,"$_");
+	$input = "$input\n$l";
+}
+
+my $sentences = Lingua::GA::Gramadoir::get_sentences_real($input);
+
+my @examples = ();
+foreach my $i (0 .. $#$sentences) {
+	my %example;
+	$example{"input"} = @$sentences[$i];
+	my $tok = $gr->tokenize_real(@$sentences[$i]);
+	$example{"output"} = $tok;
+	push @examples, \%example;
+}
+
+my $json = JSON::MaybeXS->new->encode(\@examples);
+print $json;

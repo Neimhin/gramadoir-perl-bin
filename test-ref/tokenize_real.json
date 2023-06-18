@@ -1,0 +1,1950 @@
+[
+  {
+    "input": "Ní raibh líon mór daoine bainteach leis an scaifte a bhí ag iarraidh mioscais a chothú.",
+    "output": "<c>Ní</c> <c>raibh</c> <c>líon</c> <c>mór</c> <c>daoine</c> <c>bainteach</c> <c>leis</c> <c>an</c> <c>scaifte</c> <c>a</c> <c>bhí</c> <c>ag</c> <c>iarraidh</c> <c>mioscais</c> <c>a</c> <c>chothú</c>."
+  },
+  {
+    "input": "Ach thosnaíos-sa ag léamh agus bhog mé isteach ionam féin.",
+    "output": "<c>Ach</c> <c>thosnaíos-sa</c> <c>ag</c> <c>léamh</c> <c>agus</c> <c>bhog</c> <c>mé</c> <c>isteach</c> <c>ionam</c> <c>féin</c>."
+  },
+  {
+    "input": "Tabhair go leor leor de na na rudaí do do chara, a Chaoimhín.",
+    "output": "<c>Tabhair</c> <c>go</c> <c>leor</c> <c>leor</c> <c>de</c> <c>na</c> <c>na</c> <c>rudaí</c> <c>do</c> <c>do</c> <c>chara</c>, <c>a</c> <c>Chaoimhín</c>."
+  },
+  {
+    "output": "<c>Seo</c> <c>é</c> <c>a</c> <c>chuntas</c> <c>féin</c> <c>ar</c> <c>ar</c> <c>tharla</c> <c>ina</c> <c>dhiaidh</c> <c>sin</c>.",
+    "input": "Seo é a chuntas féin ar ar tharla ina dhiaidh sin."
+  },
+  {
+    "input": "Aithníonn ciaróg ciaróg eile.",
+    "output": "<c>Aithníonn</c> <c>ciaróg</c> <c>ciaróg</c> <c>eile</c>."
+  },
+  {
+    "output": "<c>Go</c> <c>deo</c> <c>deo</c> <c>arís</c> <c>ní</c> <c>fheicfeadh</c> <c>sí</c> <c>a</c> <c>cheannaithe</c> <c>snoite</c>.",
+    "input": "Go deo deo arís ní fheicfeadh sí a cheannaithe snoite."
+  },
+  {
+    "input": "Tabhair iad seo do do mháthair.",
+    "output": "<c>Tabhair</c> <c>iad</c> <c>seo</c> <c>do</c> <c>do</c> <c>mháthair</c>."
+  },
+  {
+    "output": "<c>Sin</c> <c>é</c> <c>é</c> ... <c>Tá</c> <c>sé</c> <c>anseo</c>!",
+    "input": "Sin é é ... Tá sé anseo!"
+  },
+  {
+    "input": "Tá siad le feiceáil ann le fada fada an lá.",
+    "output": "<c>Tá</c> <c>siad</c> <c>le</c> <c>feiceáil</c> <c>ann</c> <c>le</c> <c>fada</c> <c>fada</c> <c>an</c> <c>lá</c>."
+  },
+  {
+    "input": "Bhí go leor leor le rá aici.",
+    "output": "<c>Bhí</c> <c>go</c> <c>leor</c> <c>leor</c> <c>le</c> <c>rá</c> <c>aici</c>."
+  },
+  {
+    "output": "<c>Cuirfidh</c> <c>mé</c> <c>mé</c> <c>féin</c> <c>in</c> <c>aithne</c> <c>dá</c> <c>lán</c> <c>ciníocha</c>.",
+    "input": "Cuirfidh mé mé féin in aithne dá lán ciníocha."
+  },
+  {
+    "output": "<c>Fanann</c> <c>réalta</c> <c>chobhsaí</c> <c>ar</c> <c>feadh</c> <c>idir</c> <c>milliún</c> <c>agus</c> <c>milliún</c> <c>milliún</c> <c>bliain</c>.",
+    "input": "Fanann réalta chobhsaí ar feadh idir milliún agus milliún milliún bliain."
+  },
+  {
+    "input": "Bhíodh an-tóir ar spíosraí go mór mór.",
+    "output": "<c>Bhíodh</c> <c>an-tóir</c> <c>ar</c> <c>spíosraí</c> <c>go</c> <c>mór</c> <c>mór</c>."
+  },
+  {
+    "input": "Bhí an dara cupán tae ólta agam nuair a tháinig an fear mór mór.",
+    "output": "<c>Bhí</c> <c>an</c> <c>dara</c> <c>cupán</c> <c>tae</c> <c>ólta</c> <c>agam</c> <c>nuair</c> <c>a</c> <c>tháinig</c> <c>an</c> <c>fear</c> <c>mór</c> <c>mór</c>."
+  },
+  {
+    "input": "Agus sin sin de sin!",
+    "output": "<c>Agus</c> <c>sin</c> <c>sin</c> <c>de</c> <c>sin</c>!"
+  },
+  {
+    "input": "Chuaigh sí in olcas ina dhiaidh sin agus bhí an-scanradh orthu.",
+    "output": "<c>Chuaigh</c> <c>sí</c> <c>in</c> <c>olcas</c> <c>ina</c> <c>dhiaidh</c> <c>sin</c> <c>agus</c> <c>bhí</c> <c>an-scanradh</c> <c>orthu</c>."
+  },
+  {
+    "input": "Tharla sé seo ar lá an-mífheiliúnach, an Déardaoin.",
+    "output": "<c>Tharla</c> <c>sé</c> <c>seo</c> <c>ar</c> <c>lá</c> <c>an-mífheiliúnach</c>, <c>an</c> <c>Déardaoin</c>."
+  },
+  {
+    "output": "<c>Ní</c> <c>maith</c> <c>liom</c> <c>na</c> <c>daoine</c> <c>míintleachtúla</c>.",
+    "input": "Ní maith liom na daoine míintleachtúla."
+  },
+  {
+    "output": "<c>Trí</c> <c>chomhtharlúint</c>, <c>bhí</c> <c>siad</c> <c>sa</c> <c>tuaisceart</c> <c>ag</c> <c>an</c> <c>am</c>.",
+    "input": "Trí chomhtharlúint, bhí siad sa tuaisceart ag an am."
+  },
+  {
+    "input": "Sílim nárbh ea, agus is docha nach bhfuil i gceist ach easpa smaoinimh.",
+    "output": "<c>Sílim</c> <c>nárbh</c> <c>ea</c>, <c>agus</c> <c>is</c> <c>docha</c> <c>nach</c> <c>bhfuil</c> <c>i</c> <c>gceist</c> <c>ach</c> <c>easpa</c> <c>smaoinimh</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>súil</c> <c>le</c> <c>feabhas</c> <c>nuair</c> <c>a</c> <c>thosóidh</c> <c>airgead</c> <c>ag</c> <c>teacht</c> <c>isteach</c> <c>ó</c> <c>ola</c> <c>agus</c> <c>gás</c> <c>i</c> <c>mBearna</c> <c>Timor</c>.",
+    "input": "Tá súil le feabhas nuair a thosóidh airgead ag teacht isteach ó ola agus gás i mBearna Timor."
+  },
+  {
+    "input": "Bhí sí cosúil le claíomh Damocles ar crochadh sa spéir.",
+    "output": "<c>Bhí</c> <c>sí</c> <c>cosúil</c> <c>le</c> <c>claíomh</c> <c>Damocles</c> <c>ar</c> <c>crochadh</c> <c>sa</c> <c>spéir</c>."
+  },
+  {
+    "output": "<c>Beidh</c> <c>nuachtáin</c> <c>shuaracha</c> <c>i</c> <c>ngreim</c> <c>cé</c> <c>nach</c> <c>mbeadh</c> <c>cinsireacht</c> <c>den</c> <c>droch-chinéal</c> <c>i</c> <c>gceist</c>.",
+    "input": "Beidh nuachtáin shuaracha i ngreim cé nach mbeadh cinsireacht den droch-chinéal i gceist."
+  },
+  {
+    "input": "Bhí sé páirteach sa chéad léiriú poiblí de Adaptation.",
+    "output": "<c>Bhí</c> <c>sé</c> <c>páirteach</c> <c>sa</c> <c>chéad</c> <c>léiriú</c> <c>poiblí</c> <c>de</c> <c>Adaptation</c>."
+  },
+  {
+    "input": "Beidh an tionchar le mothú níos mó i gcás comhlachtaí Éireannacha mar gur mionairgeadra é an punt.",
+    "output": "<c>Beidh</c> <c>an</c> <c>tionchar</c> <c>le</c> <c>mothú</c> <c>níos</c> <c>mó</c> <c>i</c> <c>gcás</c> <c>comhlachtaí</c> <c>Éireannacha</c> <c>mar</c> <c>gur</c> <c>mionairgeadra</c> <c>é</c> <c>an</c> <c>punt</c>."
+  },
+  {
+    "input": "Bhí an dream dí-armtha ag iarraidh a gcuid gunnaí.",
+    "output": "<c>Bhí</c> <c>an</c> <c>dream</c> <c>dí-armtha</c> <c>ag</c> <c>iarraidh</c> <c>a</c> <c>gcuid</c> <c>gunnaí</c>."
+  },
+  {
+    "input": "An bhfuil uachtar roeite agattt?",
+    "output": "<c>An</c> <c>bhfuil</c> <c>uachtar</c> <c>roeite</c> <c>agattt</c>?"
+  },
+  {
+    "input": "Bíonn an geál ag satailt ar an dubh.",
+    "output": "<c>Bíonn</c> <c>an</c> <c>geál</c> <c>ag</c> <c>satailt</c> <c>ar</c> <c>an</c> <c>dubh</c>."
+  },
+  {
+    "input": "Ach go rithe an fhíréantacht mar uisce agus an t-ionracas mar shruth gan dísc!",
+    "output": "<c>Ach</c> <c>go</c> <c>rithe</c> <c>an</c> <c>fhíréantacht</c> <c>mar</c> <c>uisce</c> <c>agus</c> <c>an</c> <c>t-ionracas</c> <c>mar</c> <c>shruth</c> <c>gan</c> <c>dísc</c>!"
+  },
+  {
+    "input": "Ba iad mo shinsear rithe Chúige Uladh.",
+    "output": "<c>Ba</c> <c>iad</c> <c>mo</c> <c>shinsear</c> <c>rithe</c> <c>Chúige</c> <c>Uladh</c>."
+  },
+  {
+    "output": "<c>Is</c> <c>iad</c> <c>na</c> <c>trí</c> <c>cholún</c> <c>sin</c> <c>le</c> <c>cheile</c> <c>an</c> <c>tAontas</c> <c>Eorpach</c>.",
+    "input": "Is iad na trí cholún sin le cheile an tAontas Eorpach."
+  },
+  {
+    "input": "Scriúáil sé an glas seo ar chúl an doras.",
+    "output": "<c>Scriúáil</c> <c>sé</c> <c>an</c> <c>glas</c> <c>seo</c> <c>ar</c> <c>chúl</c> <c>an</c> <c>doras</c>."
+  },
+  {
+    "output": "<c>Ach</c> <c>bhí</c> <c>mé</c> <c>ag</c> <c>leanúint</c> <c>ar</c> <c>aghaidh</c> <c>an</c> <c>t-am</c> <c>ar</c> <c>fad</c> <c>leis</c>.",
+    "input": "Ach bhí mé ag leanúint ar aghaidh an t-am ar fad leis."
+  },
+  {
+    "output": "<c>Bhain</c> <c>sé</c> <c>sult</c> <c>as</c> <c>clár</c> <c>toghcháin</c> <c>TG4</c> <c>a</c> <c>chur</c> <c>i</c> <c>láthair</c> <c>an</c> <c>mhí</c> <c>seo</c> <c>caite</c>.",
+    "input": "Bhain sé sult as clár toghcháin TG4 a chur i láthair an mhí seo caite."
+  },
+  {
+    "output": "<c>Bhrostaigh</c> <c>sé</c> <c>go</c> <c>dtí</c> <c>an</c> <c>t-ospidéal</c>.",
+    "input": "Bhrostaigh sé go dtí an t-ospidéal."
+  },
+  {
+    "input": "Sa dara alt, déan cur síos ar a bhfaca siad sa Spáinn.",
+    "output": "<c>Sa</c> <c>dara</c> <c>alt</c>, <c>déan</c> <c>cur</c> <c>síos</c> <c>ar</c> <c>a</c> <c>bhfaca</c> <c>siad</c> <c>sa</c> <c>Spáinn</c>."
+  },
+  {
+    "input": "D'oirfeadh síol áitiúil níos fearr ná an síol a hadhlaic sé anuraidh.",
+    "output": "<c>D'oirfeadh</c> <c>síol</c> <c>áitiúil</c> <c>níos</c> <c>fearr</c> <c>ná</c> <c>an</c> <c>síol</c> <c>a</c> <c>hadhlaic</c> <c>sé</c> <c>anuraidh</c>."
+  },
+  {
+    "output": "<c>Ná</c> <c>hinis</c> <c>do</c> <c>dhuine</c> <c>ar</c> <c>bith</c> <c>é</c>.",
+    "input": "Ná hinis do dhuine ar bith é."
+  },
+  {
+    "input": "Tá ceacht stairiúil uathúil do chuairteoirí san t-ionad seo.",
+    "output": "<c>Tá</c> <c>ceacht</c> <c>stairiúil</c> <c>uathúil</c> <c>do</c> <c>chuairteoirí</c> <c>san</c> <c>t-ionad</c> <c>seo</c>."
+  },
+  {
+    "output": "<c>Faightear</c> <c>an</c> <c>t-ainm</c> <c>isteach</c> <c>faoin</c> <c>tír</c> <c>freisin</c>.",
+    "input": "Faightear an t-ainm isteach faoin tír freisin."
+  },
+  {
+    "output": "<c>Cén</c> <c>t-ainm</c> <c>atá</c> <c>air</c>?",
+    "input": "Cén t-ainm atá air?"
+  },
+  {
+    "output": "<c>Aistríodh</c> <c>é</c> <c>go</c> <c>tSualainnis</c>, <c>Gearmáinis</c>, <c>agus</c> <c>Fraincis</c>.",
+    "input": "Aistríodh é go tSualainnis, Gearmáinis, agus Fraincis."
+  },
+  {
+    "input": "Cén chaoi a n-aimsíonn scoil an tseirbhís seo?",
+    "output": "<c>Cén</c> <c>chaoi</c> <c>a</c> <c>n-aimsíonn</c> <c>scoil</c> <c>an</c> <c>tseirbhís</c> <c>seo</c>?"
+  },
+  {
+    "output": "<c>Tá</c> <c>sonraí</c> <c>ann</c> <c>faoin</c> <c>tslí</c> <c>ina</c> <c>n-iarrtar</c> <c>taifid</c> <c>faoin</c> <c>Acht</c>.",
+    "input": "Tá sonraí ann faoin tslí ina n-iarrtar taifid faoin Acht."
+  },
+  {
+    "input": "Cén tslí bheatha a bhí ag Naoi?",
+    "output": "<c>Cén</c> <c>tslí</c> <c>bheatha</c> <c>a</c> <c>bhí</c> <c>ag</c> <c>Naoi</c>?"
+  },
+  {
+    "input": "Bhí imní ag teacht ar dheartháir an tsagairt.",
+    "output": "<c>Bhí</c> <c>imní</c> <c>ag</c> <c>teacht</c> <c>ar</c> <c>dheartháir</c> <c>an</c> <c>tsagairt</c>."
+  },
+  {
+    "input": "Tá sé riachtanach ar mhaithe le feidhmiú an phlean a bheidh ceaptha ag an eagraíocht ceannasach.",
+    "output": "<c>Tá</c> <c>sé</c> <c>riachtanach</c> <c>ar</c> <c>mhaithe</c> <c>le</c> <c>feidhmiú</c> <c>an</c> <c>phlean</c> <c>a</c> <c>bheidh</c> <c>ceaptha</c> <c>ag</c> <c>an</c> <c>eagraíocht</c> <c>ceannasach</c>."
+  },
+  {
+    "input": "Bhí na ranganna seo ar siúl an bhliain seo caite.",
+    "output": "<c>Bhí</c> <c>na</c> <c>ranganna</c> <c>seo</c> <c>ar</c> <c>siúl</c> <c>an</c> <c>bhliain</c> <c>seo</c> <c>caite</c>."
+  },
+  {
+    "input": "Léimeann an fharraige céad méadar suas sa spéir.",
+    "output": "<c>Léimeann</c> <c>an</c> <c>fharraige</c> <c>céad</c> <c>méadar</c> <c>suas</c> <c>sa</c> <c>spéir</c>."
+  },
+  {
+    "output": "<c>Briseadh</c> <c>bád</c> <c>Éamoinn</c> <c>Óig</c> <c>oíche</c> <c>gaoithe</c> <c>móire</c>.",
+    "input": "Briseadh bád Éamoinn Óig oíche gaoithe móire."
+  },
+  {
+    "output": "<c>Bhíodh</c> <c>na</c> <c>daoir</c> <c>scaoilte</c> <c>saor</c> <c>óna</c> <c>gcuid</c> <c>oibre</c> <c>agus</c> <c>bhíodh</c> <c>saoirse</c> <c>cainte</c> <c>acu</c>.",
+    "input": "Bhíodh na daoir scaoilte saor óna gcuid oibre agus bhíodh saoirse cainte acu."
+  },
+  {
+    "input": "Bhí mé ag tógáil balla agus ag baint móna.",
+    "output": "<c>Bhí</c> <c>mé</c> <c>ag</c> <c>tógáil</c> <c>balla</c> <c>agus</c> <c>ag</c> <c>baint</c> <c>móna</c>."
+  },
+  {
+    "input": "Is as Londain Shasana mé ó dhúchas.",
+    "output": "<c>Is</c> <c>as</c> <c>Londain</c> <c>Shasana</c> <c>mé</c> <c>ó</c> <c>dhúchas</c>."
+  },
+  {
+    "output": "<c>Seán</c> <c>a</c> <c>d'imigh</c> <c>ar</c> <c>iarraidh</c> <c>ar</c> <c>oíche</c> <c>ghaoithe</c> <c>móire</c>.",
+    "input": "Seán a d'imigh ar iarraidh ar oíche ghaoithe móire."
+  },
+  {
+    "output": "<c>Mar</c> <c>chuid</c> <c>den</c> <c>socrú</c> <c>beidh</c> <c>Michelle</c> <c>ag</c> <c>labhairt</c> <c>Ghaeilge</c> <c>ag</c> <c>ócáidí</c> <c>poiblí</c>.",
+    "input": "Mar chuid den socrú beidh Michelle ag labhairt Ghaeilge ag ócáidí poiblí."
+  },
+  {
+    "output": "<c>Tugadh</c> <c>cuireadh</c> <c>dó</c> <c>a</c> <c>theacht</c> <c>i</c> <c>láthair</c> <c>an</c> <c>fhir</c> <c>móir</c>.",
+    "input": "Tugadh cuireadh dó a theacht i láthair an fhir móir."
+  },
+  {
+    "input": "Tugaimid é amach le haghaidh béile Polainéisigh.",
+    "output": "<c>Tugaimid</c> <c>é</c> <c>amach</c> <c>le</c> <c>haghaidh</c> <c>béile</c> <c>Polainéisigh</c>."
+  },
+  {
+    "input": "Bhí torann an dorais cloiste agam.",
+    "output": "<c>Bhí</c> <c>torann</c> <c>an</c> <c>dorais</c> <c>cloiste</c> <c>agam</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>na</c> <c>lachain</c> <c>slachtmhara</c> <c>ar</c> <c>eitilt</c>.",
+    "input": "Tá na lachain slachtmhara ar eitilt."
+  },
+  {
+    "input": "Mhair cuid mhór dár sinsir céad caoga bliain ó shin.",
+    "output": "<c>Mhair</c> <c>cuid</c> <c>mhór</c> <c>dár</c> <c>sinsir</c> <c>céad</c> <c>caoga</c> <c>bliain</c> <c>ó</c> <c>shin</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>sé</c> <c>le</c> <c>cloisteáil</c> <c>sna</c> <c>meáin</c> <c>gach</c> <c>seachtain</c>.",
+    "input": "Tá sé le cloisteáil sna meáin gach seachtain."
+  },
+  {
+    "output": "<c>Déanann</c> <c>siad</c> <c>na</c> <c>breiseáin</c> <c>brabhsála</c> <c>don</c> <c>tionscal</c> <c>ríomhaireachta</c>.",
+    "input": "Déanann siad na breiseáin brabhsála don tionscal ríomhaireachta."
+  },
+  {
+    "input": "Is ar éisc mara agus ar na hainmhithe mara eile atáimid ag díriú.",
+    "output": "<c>Is</c> <c>ar</c> <c>éisc</c> <c>mara</c> <c>agus</c> <c>ar</c> <c>na</c> <c>hainmhithe</c> <c>mara</c> <c>eile</c> <c>atáimid</c> <c>ag</c> <c>díriú</c>."
+  },
+  {
+    "output": "<c>Chonaic</c> <c>mé</c> <c>líon</c> <c>agus</c> <c>crainn</c> <c>tógála</c> <c>ann</c>.",
+    "input": "Chonaic mé líon agus crainn tógála ann."
+  },
+  {
+    "output": "<c>Bhí</c> <c>pictiúir</c> <c>le</c> <c>feiceáil</c> <c>ar</c> <c>scáileáin</c> <c>theilifíse</c> <c>ar</c> <c>fud</c> <c>an</c> <c>domhain</c>.",
+    "input": "Bhí pictiúir le feiceáil ar scáileáin theilifíse ar fud an domhain."
+  },
+  {
+    "input": "Maidin lá ar na mhárach thug a fhear gaoil cuairt air.",
+    "output": "<c>Maidin</c> <c>lá</c> <c>ar</c> <c>na</c> <c>mhárach</c> <c>thug</c> <c>a</c> <c>fhear</c> <c>gaoil</c> <c>cuairt</c> <c>air</c>."
+  },
+  {
+    "input": "Cad é mar a tá tú?",
+    "output": "<c>Cad</c> <c>é</c> <c>mar</c> <c>a</c> <c>tá</c> <c>tú</c>?"
+  },
+  {
+    "input": "Bhí deich tobar fíoruisce agus seachtó crann pailme ann.",
+    "output": "<c>Bhí</c> <c>deich</c> <c>tobar</c> <c>fíoruisce</c> <c>agus</c> <c>seachtó</c> <c>crann</c> <c>pailme</c> <c>ann</c>."
+  },
+  {
+    "output": "<c>Rinneadh</c> <c>an</c> <c>roinnt</c> <c>do</c> <c>na</c> <c>naoi</c> <c>treibh</c> <c>go</c> <c>leith</c> <c>ar</c> <c>chrainn</c>.",
+    "input": "Rinneadh an roinnt do na naoi treibh go leith ar chrainn."
+  },
+  {
+    "input": "Bhí ocht tábla ar fad ar a maraídís na híobairtí.",
+    "output": "<c>Bhí</c> <c>ocht</c> <c>tábla</c> <c>ar</c> <c>fad</c> <c>ar</c> <c>a</c> <c>maraídís</c> <c>na</c> <c>híobairtí</c>."
+  },
+  {
+    "output": "<c>Sáraíonn</c> <c>sé</c> <c>na</c> <c>seacht</c> <c>nó</c> <c>na</c> <c>hocht</c> <c>bliana</c>.",
+    "input": "Sáraíonn sé na seacht nó na hocht bliana."
+  },
+  {
+    "input": "Tá seacht lampa air agus seacht píopa ar gach ceann díobh.",
+    "output": "<c>Tá</c> <c>seacht</c> <c>lampa</c> <c>air</c> <c>agus</c> <c>seacht</c> <c>píopa</c> <c>ar</c> <c>gach</c> <c>ceann</c> <c>díobh</c>."
+  },
+  {
+    "output": "<c>A</c> <c>aon</c>, <c>a</c> <c>dó</c>, <c>a</c> <c>trí</c>.",
+    "input": "A aon, a dó, a trí."
+  },
+  {
+    "output": "<c>Ba</c> <c>é</c> <c>a</c> <c>aon</c> <c>aidhm</c> <c>ar</c> <c>an</c> <c>saol</c> <c>daoine</c> <c>a</c> <c>ghnóthú</c> <c>don</c> <c>chúis</c>.",
+    "input": "Ba é a aon aidhm ar an saol daoine a ghnóthú don chúis."
+  },
+  {
+    "input": "Tá an Rialtas tar éis áit na Gaeilge i saol na tíre a ceistiú.",
+    "output": "<c>Tá</c> <c>an</c> <c>Rialtas</c> <c>tar</c> <c>éis</c> <c>áit</c> <c>na</c> <c>Gaeilge</c> <c>i</c> <c>saol</c> <c>na</c> <c>tíre</c> <c>a</c> <c>ceistiú</c>."
+  },
+  {
+    "output": "<c>Ach</c> <c>sin</c> <c>scéal</c> <c>eile</c> <c>mar</c> <c>a</c> <c>déarfadh</c> <c>an</c> <c>té</c> <c>a</c> <c>déarfadh</c>.",
+    "input": "Ach sin scéal eile mar a déarfadh an té a déarfadh."
+  },
+  {
+    "output": "<c>Is</c> <c>iomaí</c> <c>uair</c> <c>a</c> <c>fuair</c> <c>mé</c> <c>locht</c> <c>ar</c> <c>an</c> <c>rialtas</c>.",
+    "input": "Is iomaí uair a fuair mé locht ar an rialtas."
+  },
+  {
+    "output": "<c>Bhíodar</c> <c>ag</c> <c>rá</c> <c>ar</c> <c>an</c> <c>aonach</c> <c>gur</c> <c>agamsa</c> <c>a</c> <c>bhí</c> <c>na</c> <c>huain</c> <c>ab</c> <c>fearr</c>.",
+    "input": "Bhíodar ag rá ar an aonach gur agamsa a bhí na huain ab fearr."
+  },
+  {
+    "input": "Ní bheidh ach mhallacht i ndán dó ó na ciníocha agus fuath ó na náisiúin.",
+    "output": "<c>Ní</c> <c>bheidh</c> <c>ach</c> <c>mhallacht</c> <c>i</c> <c>ndán</c> <c>dó</c> <c>ó</c> <c>na</c> <c>ciníocha</c> <c>agus</c> <c>fuath</c> <c>ó</c> <c>na</c> <c>náisiúin</c>."
+  },
+  {
+    "input": "Ní theastaíonn uaithi ach bheith ina ball den chumann.",
+    "output": "<c>Ní</c> <c>theastaíonn</c> <c>uaithi</c> <c>ach</c> <c>bheith</c> <c>ina</c> <c>ball</c> <c>den</c> <c>chumann</c>."
+  },
+  {
+    "input": "An bhfuil aon uachtar reoite ar an cuntar?",
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>ar</c> <c>an</c> <c>cuntar</c>?"
+  },
+  {
+    "input": "Baintear feidhm as chun aicídí súl a mhaolú.",
+    "output": "<c>Baintear</c> <c>feidhm</c> <c>as</c> <c>chun</c> <c>aicídí</c> <c>súl</c> <c>a</c> <c>mhaolú</c>."
+  },
+  {
+    "output": "<c>Má</c> <c>shuíonn</c> <c>tú</c> <c>ag</c> <c>bhord</c> <c>le</c> <c>flaith</c>, <c>tabhair</c> <c>faoi</c> <c>deara</c> <c>go</c> <c>cúramach</c> <c>céard</c> <c>atá</c> <c>leagtha</c> <c>romhat</c>.",
+    "input": "Má shuíonn tú ag bhord le flaith, tabhair faoi deara go cúramach céard atá leagtha romhat."
+  },
+  {
+    "output": "<c>Tá</c> <c>sí</c> <c>ag</c> <c>ullmhú</c> <c>é</c>.",
+    "input": "Tá sí ag ullmhú é."
+  },
+  {
+    "input": "Chuir sí ag machnamh é.",
+    "output": "<c>Chuir</c> <c>sí</c> <c>ag</c> <c>machnamh</c> <c>é</c>."
+  },
+  {
+    "input": "Bhí neach oilbhéasach ag leanúint mé.",
+    "output": "<c>Bhí</c> <c>neach</c> <c>oilbhéasach</c> <c>ag</c> <c>leanúint</c> <c>mé</c>."
+  },
+  {
+    "input": "Bláthaíonn sé amhail bhláth an mhachaire.",
+    "output": "<c>Bláthaíonn</c> <c>sé</c> <c>amhail</c> <c>bhláth</c> <c>an</c> <c>mhachaire</c>."
+  },
+  {
+    "input": "An chuir an bhean bheag mórán ceisteanna ort?",
+    "output": "<c>An</c> <c>chuir</c> <c>an</c> <c>bhean</c> <c>bheag</c> <c>mórán</c> <c>ceisteanna</c> <c>ort</c>?"
+  },
+  {
+    "output": "<c>An</c> <c>ndeachaigh</c> <c>tú</c> <c>ag</c> <c>iascaireacht</c> <c>inniu</c>?",
+    "input": "An ndeachaigh tú ag iascaireacht inniu?"
+  },
+  {
+    "input": "An raibh aon bhealach praiticiúil eile chun na hIndia?",
+    "output": "<c>An</c> <c>raibh</c> <c>aon</c> <c>bhealach</c> <c>praiticiúil</c> <c>eile</c> <c>chun</c> <c>na</c> <c>hIndia</c>?"
+  },
+  {
+    "output": "<c>An</c> <c>dhearna</c> <c>mé</c> <c>an</c> <c>rud</c> <c>ceart</c>?",
+    "input": "An dhearna mé an rud ceart?"
+  },
+  {
+    "output": "<c>An</c> <c>bainim</c> <c>sult</c> <c>as</c> <c>bás</c> <c>an</c> <c>drochdhuine</c>?",
+    "input": "An bainim sult as bás an drochdhuine?"
+  },
+  {
+    "output": "<c>An</c> <c>éireodh</c> <c>níos</c> <c>fearr</c> <c>leo</c> <c>dá</c> <c>mba</c> <c>mar</c> <c>sin</c> <c>a</c> <c>bheidís</c>?",
+    "input": "An éireodh níos fearr leo dá mba mar sin a bheidís?"
+  },
+  {
+    "input": "Ní féidir an Gaeltacht a choinneáil mar réigiún Gaeilge go náisiúnta gan athrú bunúsach.",
+    "output": "<c>Ní</c> <c>féidir</c> <c>an</c> <c>Gaeltacht</c> <c>a</c> <c>choinneáil</c> <c>mar</c> <c>réigiún</c> <c>Gaeilge</c> <c>go</c> <c>náisiúnta</c> <c>gan</c> <c>athrú</c> <c>bunúsach</c>."
+  },
+  {
+    "input": "I gcás An Comhairle Ealaíon ní mór é seo a dhéanamh.",
+    "output": "<c>I</c> <c>gcás</c> <c>An</c> <c>Comhairle</c> <c>Ealaíon</c> <c>ní</c> <c>mór</c> <c>é</c> <c>seo</c> <c>a</c> <c>dhéanamh</c>."
+  },
+  {
+    "output": "<c>An</c> <c>bean</c> <c>sin</c>, <c>tá</c> <c>sí</c> <c>ina</c> <c>múinteoir</c>.",
+    "input": "An bean sin, tá sí ina múinteoir."
+  },
+  {
+    "input": "Chuala sé a mháthair ag labhairt chomh caoin seo leis an mbean nua.",
+    "output": "<c>Chuala</c> <c>sé</c> <c>a</c> <c>mháthair</c> <c>ag</c> <c>labhairt</c> <c>chomh</c> <c>caoin</c> <c>seo</c> <c>leis</c> <c>an</c> <c>mbean</c> <c>nua</c>."
+  },
+  {
+    "output": "<c>Chinn</c> <c>sé</c> <c>an</c> <c>cruinniú</c> <c>a</c> <c>chur</c> <c>ar</c> <c>an</c> <c>méar</c> <c>fhada</c>.",
+    "input": "Chinn sé an cruinniú a chur ar an méar fhada."
+  },
+  {
+    "input": "Cad é an chomhairle a thug an ochtapas dó?",
+    "output": "<c>Cad</c> <c>é</c> <c>an</c> <c>chomhairle</c> <c>a</c> <c>thug</c> <c>an</c> <c>ochtapas</c> <c>dó</c>?"
+  },
+  {
+    "input": "An Acht um Chomhionannas Fostaíochta.",
+    "output": "<c>An</c> <c>Acht</c> <c>um</c> <c>Chomhionannas</c> <c>Fostaíochta</c>."
+  },
+  {
+    "output": "<c>Dath</c> <c>bánbhuí</c> <c>éadrom</c> <c>atá</c> <c>ar</c> <c>an</c> <c>adhmad</c>.",
+    "input": "Dath bánbhuí éadrom atá ar an adhmad."
+  },
+  {
+    "input": "Chóirigh sé na lampaí le solas a chaitheamh os comhair an coinnleora.",
+    "output": "<c>Chóirigh</c> <c>sé</c> <c>na</c> <c>lampaí</c> <c>le</c> <c>solas</c> <c>a</c> <c>chaitheamh</c> <c>os</c> <c>comhair</c> <c>an</c> <c>coinnleora</c>."
+  },
+  {
+    "input": "Comhlánóidh saoránacht an Aontais an saoránacht náisiúnta agus ní ghabhfaidh sí a hionad.",
+    "output": "<c>Comhlánóidh</c> <c>saoránacht</c> <c>an</c> <c>Aontais</c> <c>an</c> <c>saoránacht</c> <c>náisiúnta</c> <c>agus</c> <c>ní</c> <c>ghabhfaidh</c> <c>sí</c> <c>a</c> <c>hionad</c>."
+  },
+  {
+    "output": "<c>Ritheann</c> <c>an</c> <c>Sláine</c> <c>tríd</c> <c>an</c> <c>pháirc</c>.",
+    "input": "Ritheann an Sláine tríd an pháirc."
+  },
+  {
+    "input": "Ní raibh guth an séiléara le clos a thuilleadh.",
+    "output": "<c>Ní</c> <c>raibh</c> <c>guth</c> <c>an</c> <c>séiléara</c> <c>le</c> <c>clos</c> <c>a</c> <c>thuilleadh</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>sin</c> <c>ráite</c> <c>cheana</c> <c>féin</c> <c>acu</c> <c>le</c> <c>muintir</c> <c>an</c> <c>tíre</c> <c>seo</c>.",
+    "input": "Tá sin ráite cheana féin acu le muintir an tíre seo."
+  },
+  {
+    "output": "<c>Is</c> <c>é</c> <c>is</c> <c>dóichí</c> <c>go</c> <c>raibh</c> <c>baint</c> <c>ag</c> <c>an</c> <c>eisimirce</c> <c>leis</c> <c>an</c> <c>laghdú</c> <c>i</c> <c>líon</c> <c>an</c> <c>gcainteoirí</c> <c>Gaeilge</c>.",
+    "input": "Is é is dóichí go raibh baint ag an eisimirce leis an laghdú i líon an gcainteoirí Gaeilge."
+  },
+  {
+    "input": "Is iad an trí cholún le chéile an tAontas Eorpach.",
+    "output": "<c>Is</c> <c>iad</c> <c>an</c> <c>trí</c> <c>cholún</c> <c>le</c> <c>chéile</c> <c>an</c> <c>tAontas</c> <c>Eorpach</c>."
+  },
+  {
+    "output": "<c>Sheol</c> <c>an</c> <c>ceithre</c> <c>mhíle</c> <c>de</c> <c>na</c> <c>meirligh</c> <c>amach</c> <c>san</c> <c>fhásach</c>.",
+    "input": "Sheol an ceithre mhíle de na meirligh amach san fhásach."
+  },
+  {
+    "output": "<c>Ní</c> <c>bhíonn</c> <c>an</c> <c>dhíograis</c> <c>ná</c> <c>an</c> <c>dhúthracht</c> <c>i</c> <c>gceist</c>.",
+    "input": "Ní bhíonn an dhíograis ná an dhúthracht i gceist."
+  },
+  {
+    "output": "<c>An</c> <c>fhéidir</c> <c>le</c> <c>duine</c> <c>ar</c> <c>bith</c> <c>eile</c> <c>breathnú</c> <c>ar</c> <c>mo</c> <c>script</c>?",
+    "input": "An fhéidir le duine ar bith eile breathnú ar mo script?"
+  },
+  {
+    "output": "<c>Ní</c> <c>bhíonn</c> <c>aon</c> <c>dhá</c> <c>chlár</c> <c>as</c> <c>an</c> <c>chrann</c> <c>chéanna</c> <c>mar</c> <c>a</c> <c>chéile</c> <c>go</c> <c>díreach</c>.",
+    "input": "Ní bhíonn aon dhá chlár as an chrann chéanna mar a chéile go díreach."
+  },
+  {
+    "output": "<c>Ní</c> <c>bheidh</c> <c>aon</c> <c>buntáiste</c> <c>againn</c> <c>orthu</c> <c>sin</c>.",
+    "input": "Ní bheidh aon buntáiste againn orthu sin."
+  },
+  {
+    "input": "Rogha aon de na focail a tháinig i d'intinn.",
+    "output": "<c>Rogha</c> <c>aon</c> <c>de</c> <c>na</c> <c>focail</c> <c>a</c> <c>tháinig</c> <c>i</c> <c>d'intinn</c>."
+  },
+  {
+    "output": "<c>Ná</c> <c>hith</c> <c>aon</c> <c>arán</c> <c>gabhála</c> <c>mar</c> <c>aon</c> <c>léi</c>.",
+    "input": "Ná hith aon arán gabhála mar aon léi."
+  },
+  {
+    "input": "Freagair aon dá cheann ar bith díobh seo a leanas.",
+    "output": "<c>Freagair</c> <c>aon</c> <c>dá</c> <c>cheann</c> <c>ar</c> <c>bith</c> <c>díobh</c> <c>seo</c> <c>a</c> <c>leanas</c>."
+  },
+  {
+    "output": "<c>Bhíomar</c> <c>ag</c> <c>féachaint</c> <c>ar</c> <c>an</c> <c>Ghaeltacht</c> <c>mar</c> <c>ionad</c> <c>chun</c> <c>feabhas</c> <c>a</c> <c>chur</c> <c>ar</c> <c>ar</c> <c>gcuid</c> <c>Gaeilge</c>.",
+    "input": "Bhíomar ag féachaint ar an Ghaeltacht mar ionad chun feabhas a chur ar ar gcuid Gaeilge."
+  },
+  {
+    "input": "Bhí daoine le fáil i Sasana a chreid gach ar dúradh sa bholscaireacht.",
+    "output": "<c>Bhí</c> <c>daoine</c> <c>le</c> <c>fáil</c> <c>i</c> <c>Sasana</c> <c>a</c> <c>chreid</c> <c>gach</c> <c>ar</c> <c>dúradh</c> <c>sa</c> <c>bholscaireacht</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>treoirlínte</c> <c>mionsonraithe</c> <c>curtha</c> <c>ar</c> <c>fail</c> <c>ag</c> <c>an</c> <c>gCoimisiún</c>.",
+    "input": "Tá treoirlínte mionsonraithe curtha ar fail ag an gCoimisiún."
+  },
+  {
+    "input": "Bhí cead againn fanacht ag obair ar an talamh ar fead trí mhí.",
+    "output": "<c>Bhí</c> <c>cead</c> <c>againn</c> <c>fanacht</c> <c>ag</c> <c>obair</c> <c>ar</c> <c>an</c> <c>talamh</c> <c>ar</c> <c>fead</c> <c>trí</c> <c>mhí</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>sé</c> <c>an</c> <c>chéad</c> <c>suíomh</c> <c>gréasán</c> <c>ar</c> <c>bronnadh</c> <c>teastas</c> <c>air</c>.",
+    "input": "Tá sé an chéad suíomh gréasán ar bronnadh teastas air."
+  },
+  {
+    "input": "Cosc a bheith ar cic a thabhairt don sliotar.",
+    "output": "<c>Cosc</c> <c>a</c> <c>bheith</c> <c>ar</c> <c>cic</c> <c>a</c> <c>thabhairt</c> <c>don</c> <c>sliotar</c>."
+  },
+  {
+    "output": "<c>Cosc</c> <c>a</c> <c>bheith</c> <c>ar</c> <c>CIC</c> <c>leabhair</c> <c>a</c> <c>dhíol</c>.",
+    "input": "Cosc a bheith ar CIC leabhair a dhíol."
+  },
+  {
+    "input": "Beidh cairde dá cuid ar Gaeilgeoirí iad.",
+    "output": "<c>Beidh</c> <c>cairde</c> <c>dá</c> <c>cuid</c> <c>ar</c> <c>Gaeilgeoirí</c> <c>iad</c>."
+  },
+  {
+    "output": "<c>Ar</c> <c>gcaith</c> <c>tú</c> <c>do</c> <c>chiall</c> <c>agus</c> <c>do</c> <c>chéadfaí</c> <c>ar</c> <c>fad</c>?",
+    "input": "Ar gcaith tú do chiall agus do chéadfaí ar fad?"
+  },
+  {
+    "input": "Ní amháin ár dhá chosa, ach nigh ár lámha!",
+    "output": "<c>Ní</c> <c>amháin</c> <c>ár</c> <c>dhá</c> <c>chosa</c>, <c>ach</c> <c>nigh</c> <c>ár</c> <c>lámha</c>!"
+  },
+  {
+    "input": "Gheobhaimid maoin de gach sórt, agus líonfaimid ár tithe le creach.",
+    "output": "<c>Gheobhaimid</c> <c>maoin</c> <c>de</c> <c>gach</c> <c>sórt</c>, <c>agus</c> <c>líonfaimid</c> <c>ár</c> <c>tithe</c> <c>le</c> <c>creach</c>."
+  },
+  {
+    "input": "Níl aon ní arbh fiú a shantú seachas í.",
+    "output": "<c>Níl</c> <c>aon</c> <c>ní</c> <c>arbh</c> <c>fiú</c> <c>a</c> <c>shantú</c> <c>seachas</c> <c>í</c>."
+  },
+  {
+    "output": "<c>Ba</c> <c>maith</c> <c>liom</c> <c>fios</c> <c>a</c> <c>thabhairt</c> <c>anois</c> <c>daoibh</c>.",
+    "input": "Ba maith liom fios a thabhairt anois daoibh."
+  },
+  {
+    "output": "<c>Dúirt</c> <c>daoine</c> <c>go</c> <c>mba</c> <c>ceart</c> <c>an</c> <c>poll</c> <c>a</c> <c>dhúnadh</c> <c>suas</c> <c>ar</c> <c>fad</c>.",
+    "input": "Dúirt daoine go mba ceart an poll a dhúnadh suas ar fad."
+  },
+  {
+    "input": "Ba eol duit go hiomlán m'anam.",
+    "output": "<c>Ba</c> <c>eol</c> <c>duit</c> <c>go</c> <c>hiomlán</c> <c>m'anam</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>beinn</c> <c>agus</c> <c>buaic</c> <c>orm</c>.",
+    "input": "Tá beinn agus buaic orm."
+  },
+  {
+    "output": "<c>D'fhan</c> <c>beirt</c> <c>buachaill</c> <c>sa</c> <c>champa</c>.",
+    "input": "D'fhan beirt buachaill sa champa."
+  },
+  {
+    "output": "<c>D'fhan</c> <c>beirt</c> <c>bhuachaill</c> <c>cancrach</c> <c>sa</c> <c>champa</c>.",
+    "input": "D'fhan beirt bhuachaill cancrach sa champa."
+  },
+  {
+    "input": "Mothóidh Pobal Osraí an bheirt laoch sin uathu.",
+    "output": "<c>Mothóidh</c> <c>Pobal</c> <c>Osraí</c> <c>an</c> <c>bheirt</c> <c>laoch</c> <c>sin</c> <c>uathu</c>."
+  },
+  {
+    "output": "<c>Ní</c> <c>amháin</c> <c>bhur</c> <c>dhá</c> <c>chosa</c>, <c>ach</c> <c>nigh</c> <c>bhur</c> <c>lámha</c>!",
+    "input": "Ní amháin bhur dhá chosa, ach nigh bhur lámha!"
+  },
+  {
+    "output": "<c>Déanaigí</c> <c>beart</c> <c>leis</c> <c>de</c> <c>réir</c> <c>bhur</c> <c>briathra</c>.",
+    "input": "Déanaigí beart leis de réir bhur briathra."
+  },
+  {
+    "output": "<c>Cad</c> <c>déarfaidh</c> <c>mé</c> <c>libh</c> <c>mar</c> <c>sin</c>?",
+    "input": "Cad déarfaidh mé libh mar sin?"
+  },
+  {
+    "output": "<c>Cé</c> <c>mhéid</c> <c>gealladh</c> <c>ar</c> <c>briseadh</c> <c>ar</c> <c>an</c> <c>Indiach</c> <c>bocht</c>?",
+    "input": "Cé mhéid gealladh ar briseadh ar an Indiach bocht?"
+  },
+  {
+    "input": "Nach raibh a fhios aige cé mhéad daoine a bhíonn ag éisteacht leis an stáisiún.",
+    "output": "<c>Nach</c> <c>raibh</c> <c>a</c> <c>fhios</c> <c>aige</c> <c>cé</c> <c>mhéad</c> <c>daoine</c> <c>a</c> <c>bhíonn</c> <c>ag</c> <c>éisteacht</c> <c>leis</c> <c>an</c> <c>stáisiún</c>."
+  },
+  {
+    "output": "<c>Faigh</c> <c>amach</c> <c>cé</c> <c>mhéad</c> <c>salainn</c> <c>a</c> <c>bhíonn</c> <c>i</c> <c>sampla</c> <c>d'uisce</c>.",
+    "input": "Faigh amach cé mhéad salainn a bhíonn i sampla d'uisce."
+  },
+  {
+    "output": "<c>Cá</c> <c>áit</c> <c>a</c> <c>nochtfadh</c> <c>sé</c> <c>é</c> <c>féin</c> <c>ach</c> <c>i</c> <c>mBostún</c>!",
+    "input": "Cá áit a nochtfadh sé é féin ach i mBostún!"
+  },
+  {
+    "output": "<c>Cá</c> <c>chás</c> <c>dúinn</c> <c>bheith</c> <c>ag</c> <c>máinneáil</c> <c>thart</c> <c>anseo</c>?",
+    "input": "Cá chás dúinn bheith ag máinneáil thart anseo?"
+  },
+  {
+    "output": "<c>Cá</c> <c>mhinice</c> <c>ba</c> <c>riachtanach</c> <c>dó</c> <c>stad</c>?",
+    "input": "Cá mhinice ba riachtanach dó stad?"
+  },
+  {
+    "output": "<c>Cá</c> <c>n-oibrigh</c> <c>an</c> <c>t-údar</c> <c>sular</c> <c>imigh</c> <c>sí</c> <c>le</c> <c>ceol</c>?",
+    "input": "Cá n-oibrigh an t-údar sular imigh sí le ceol?"
+  },
+  {
+    "input": "Cá raibh na rudaí go léir?",
+    "output": "<c>Cá</c> <c>raibh</c> <c>na</c> <c>rudaí</c> <c>go</c> <c>léir</c>?"
+  },
+  {
+    "input": "Cá cuireann tú do thréad ar féarach?",
+    "output": "<c>Cá</c> <c>cuireann</c> <c>tú</c> <c>do</c> <c>thréad</c> <c>ar</c> <c>féarach</c>?"
+  },
+  {
+    "output": "<c>Cá</c> <c>úsáidfear</c> <c>an</c> <c>mhóin</c>?",
+    "input": "Cá úsáidfear an mhóin?"
+  },
+  {
+    "output": "<c>Cár</c> <c>fág</c> <c>tú</c> <c>eisean</c>?",
+    "input": "Cár fág tú eisean?"
+  },
+  {
+    "output": "<c>Cár</c> <c>bhfág</c> <c>tú</c> <c>eisean</c>?",
+    "input": "Cár bhfág tú eisean?"
+  },
+  {
+    "output": "<c>Cár</c> <c>fágadh</c> <c>eisean</c>?",
+    "input": "Cár fágadh eisean?"
+  },
+  {
+    "input": "Sin é a dhéantar i gcas cuntair oibre cistine.",
+    "output": "<c>Sin</c> <c>é</c> <c>a</c> <c>dhéantar</c> <c>i</c> <c>gcas</c> <c>cuntair</c> <c>oibre</c> <c>cistine</c>."
+  },
+  {
+    "input": "Cé iad na fir seo ag fanacht farat?",
+    "output": "<c>Cé</c> <c>iad</c> <c>na</c> <c>fir</c> <c>seo</c> <c>ag</c> <c>fanacht</c> <c>farat</c>?"
+  },
+  {
+    "output": "<c>Cé</c> <c>ea</c>, <c>rachaidh</c> <c>mé</c> <c>ann</c> <c>leat</c>.",
+    "input": "Cé ea, rachaidh mé ann leat."
+  },
+  {
+    "input": "Cé an ceart atá agamsa a thuilleadh fós a lorg ar an rí?",
+    "output": "<c>Cé</c> <c>an</c> <c>ceart</c> <c>atá</c> <c>agamsa</c> <c>a</c> <c>thuilleadh</c> <c>fós</c> <c>a</c> <c>lorg</c> <c>ar</c> <c>an</c> <c>rí</c>?"
+  },
+  {
+    "output": "<c>D'fhoilsigh</c> <c>sí</c> <c>a</c> <c>céad</c> <c>cnuasach</c> <c>filíochta</c> <c>i</c> <A>1995</A>.",
+    "input": "D'fhoilsigh sí a céad cnuasach filíochta i 1995."
+  },
+  {
+    "input": "Chuir siad fios orm ceithre uaire ar an tslí sin.",
+    "output": "<c>Chuir</c> <c>siad</c> <c>fios</c> <c>orm</c> <c>ceithre</c> <c>uaire</c> <c>ar</c> <c>an</c> <c>tslí</c> <c>sin</c>."
+  },
+  {
+    "input": "Beidh ar Bhord Feidhmiúcháin an tUachtarán agus ceithre ball eile.",
+    "output": "<c>Beidh</c> <c>ar</c> <c>Bhord</c> <c>Feidhmiúcháin</c> <c>an</c> <c>tUachtarán</c> <c>agus</c> <c>ceithre</c> <c>ball</c> <c>eile</c>."
+  },
+  {
+    "input": "Tá sé tuigthe aige go bhfuil na ceithre dúile ann.",
+    "output": "<c>Tá</c> <c>sé</c> <c>tuigthe</c> <c>aige</c> <c>go</c> <c>bhfuil</c> <c>na</c> <c>ceithre</c> <c>dúile</c> <c>ann</c>."
+  },
+  {
+    "output": "<c>Cén</c> <c>amhránaí</c> <c>is</c> <c>fearr</c> <c>leat</c>?",
+    "input": "Cén amhránaí is fearr leat?"
+  },
+  {
+    "output": "<c>Cén</c> <c>slí</c> <c>ar</c> <c>fhoghlaim</c> <c>tú</c> <c>an</c> <c>teanga</c>?",
+    "input": "Cén slí ar fhoghlaim tú an teanga?"
+  },
+  {
+    "output": "<c>Cha</c> <c>dtug</c> <c>mé</c> <c>cur</c> <c>síos</c> <c>ach</c> <c>ar</c> <c>dhá</c> <c>bhabhta</c> <c>collaíochta</c> <c>san</c> <c>úrscéal</c> <c>ar</c> <c>fad</c>.",
+    "input": "Cha dtug mé cur síos ach ar dhá bhabhta collaíochta san úrscéal ar fad."
+  },
+  {
+    "output": "<c>Bhí</c> <c>an</c> <c>chéad</c> <c>cruinniú</c> <c>den</c> <c>Choimisiún</c> <c>i</c> <c>Ros</c> <c>Muc</c> <c>i</c> <c>nGaeltacht</c> <c>na</c> <c>Gaillimhe</c>.",
+    "input": "Bhí an chéad cruinniú den Choimisiún i Ros Muc i nGaeltacht na Gaillimhe."
+  },
+  {
+    "input": "Tá sé chomh iontach le sneachta dearg.",
+    "output": "<c>Tá</c> <c>sé</c> <c>chomh</c> <c>iontach</c> <c>le</c> <c>sneachta</c> <c>dearg</c>."
+  },
+  {
+    "output": "<c>Chuir</c> <c>mé</c> <c>céad</c> <c>punt</c> <c>chuig</c> <c>an</c> <c>banaltra</c>.",
+    "input": "Chuir mé céad punt chuig an banaltra."
+  },
+  {
+    "output": "<c>Níl</c> <c>tú</c> <c>do</c> <c>do</c> <c>sheoladh</c> <c>chuig</c> <c>dhaoine</c> <c>a</c> <c>labhraíonn</c> <c>teanga</c> <c>dhothuigthe</c>.",
+    "input": "Níl tú do do sheoladh chuig dhaoine a labhraíonn teanga dhothuigthe."
+  },
+  {
+    "input": "Seo deis iontach chun an Ghaeilge a chur chun chinn.",
+    "output": "<c>Seo</c> <c>deis</c> <c>iontach</c> <c>chun</c> <c>an</c> <c>Ghaeilge</c> <c>a</c> <c>chur</c> <c>chun</c> <c>chinn</c>."
+  },
+  {
+    "output": "<c>Tiocfaidh</c> <c>deontas</c> <c>faoin</c> <c>alt</c> <c>seo</c> <c>chun</c> <c>bheith</c> <c>iníoctha</c>.",
+    "input": "Tiocfaidh deontas faoin alt seo chun bheith iníoctha."
+  },
+  {
+    "output": "<c>D'éirídís</c> <c>ar</c> <c>maidin</c> <c>ar</c> <c>a</c> <c>ceathair</c> <c>a</c> <c>clog</c>.",
+    "input": "D'éirídís ar maidin ar a ceathair a clog."
+  },
+  {
+    "input": "Shocraigh sé ar an toirt gur choir an t-ábhar tábhachtach seo a phlé leis na daoine.",
+    "output": "<c>Shocraigh</c> <c>sé</c> <c>ar</c> <c>an</c> <c>toirt</c> <c>gur</c> <c>choir</c> <c>an</c> <c>t-ábhar</c> <c>tábhachtach</c> <c>seo</c> <c>a</c> <c>phlé</c> <c>leis</c> <c>na</c> <c>daoine</c>."
+  },
+  {
+    "input": "Caithfidh siad turas cúig uaire a chloig a dhéanamh.",
+    "output": "<c>Caithfidh</c> <c>siad</c> <c>turas</c> <c>cúig</c> <c>uaire</c> <c>a</c> <c>chloig</c> <c>a</c> <c>dhéanamh</c>."
+  },
+  {
+    "output": "<c>Bhí</c> <c>sé</c> <c>cúig</c> <c>bhanlámh</c> <c>ar</c> <c>fhad</c>, <c>cúig</c> <c>banlámh</c> <c>ar</c> <c>leithead</c>.",
+    "input": "Bhí sé cúig bhanlámh ar fhad, cúig banlámh ar leithead."
+  },
+  {
+    "input": "Beirim mo mhionn dar an beart a rinne Dia le mo shinsir.",
+    "output": "<c>Beirim</c> <c>mo</c> <c>mhionn</c> <c>dar</c> <c>an</c> <c>beart</c> <c>a</c> <c>rinne</c> <c>Dia</c> <c>le</c> <c>mo</c> <c>shinsir</c>."
+  },
+  {
+    "input": "An lá dar gcionn nochtadh gealltanas an Taoisigh sa nuachtán.",
+    "output": "<c>An</c> <c>lá</c> <c>dar</c> <c>gcionn</c> <c>nochtadh</c> <c>gealltanas</c> <c>an</c> <c>Taoisigh</c> <c>sa</c> <c>nuachtán</c>."
+  },
+  {
+    "output": "<c>Sa</c> <c>dara</c> <c>bliain</c> <c>déag</c> <c>dár</c> <c>braighdeanas</c>, <c>tháinig</c> <c>fear</c> <c>ar</c> <c>a</c> <c>theitheadh</c>.",
+    "input": "Sa dara bliain déag dár braighdeanas, tháinig fear ar a theitheadh."
+  },
+  {
+    "input": "Beidh picéid ar an monarcha óna naoi a chlog maidin Dhé Luain.",
+    "output": "<c>Beidh</c> <c>picéid</c> <c>ar</c> <c>an</c> <c>monarcha</c> <c>óna</c> <c>naoi</c> <c>a</c> <c>chlog</c> <c>maidin</c> <c>Dhé</c> <c>Luain</c>."
+  },
+  {
+    "output": "<c>Bíonn</c> <c>ranganna</c> <c>ar</c> <c>siúl</c> <c>oíche</c> <c>Dhéardaoin</c>.",
+    "input": "Bíonn ranganna ar siúl oíche Dhéardaoin."
+  },
+  {
+    "input": "Cuireadh tús le himeachtaí ar Dhéardaoin na Féile le cluiche mór.",
+    "output": "<c>Cuireadh</c> <c>tús</c> <c>le</c> <c>himeachtaí</c> <c>ar</c> <c>Dhéardaoin</c> <c>na</c> <c>Féile</c> <c>le</c> <c>cluiche</c> <c>mór</c>."
+  },
+  {
+    "output": "<c>D'oibrigh</c> <c>mé</c> <c>liom</c> <c>go</c> <c>dtí</c> <c>Dé</c> <c>Aoine</c>.",
+    "input": "D'oibrigh mé liom go dtí Dé Aoine."
+  },
+  {
+    "output": "<c>Míle</c> <c>naoi</c> <c>gcéad</c> <c>a</c> <c>hocht</c> <c>ndéag</c> <c>is</c> <c>fiche</c>.",
+    "input": "Míle naoi gcéad a hocht ndéag is fiche."
+  },
+  {
+    "input": "Feicim go bhfuil aon duine déag curtha san uaigh seo.",
+    "output": "<c>Feicim</c> <c>go</c> <c>bhfuil</c> <c>aon</c> <c>duine</c> <c>déag</c> <c>curtha</c> <c>san</c> <c>uaigh</c> <c>seo</c>."
+  },
+  {
+    "input": "D'fhás sé ag deireadh na naoú haoise déag agus fás an náisiúnachais.",
+    "output": "<c>D'fhás</c> <c>sé</c> <c>ag</c> <c>deireadh</c> <c>na</c> <c>naoú</c> <c>haoise</c> <c>déag</c> <c>agus</c> <c>fás</c> <c>an</c> <c>náisiúnachais</c>."
+  },
+  {
+    "output": "<c>Tabharfaidh</c> <c>an</c> <c>tUachtarán</c> <c>a</c> <c>óráid</c> <c>ag</c> <c>leath</c> <c>i</c> <c>ndiaidh</c> <c>a</c> <c>dó</c> <c>déag</c> <c>Dé</c> <c>Sathairn</c>.",
+    "input": "Tabharfaidh an tUachtarán a óráid ag leath i ndiaidh a dó déag Dé Sathairn."
+  },
+  {
+    "output": "<c>Bhuail</c> <c>an</c> <c>clog</c> <c>a</c> <c>trí</c> <c>dhéag</c>.",
+    "input": "Bhuail an clog a trí dhéag."
+  },
+  {
+    "output": "<c>Tá</c> <c>trí</c> <c>déag</c> <c>litir</c> <c>san</c> <c>fhocal</c> <c>seo</c>.",
+    "input": "Tá trí déag litir san fhocal seo."
+  },
+  {
+    "output": "<c>Tógfaidh</c> <c>mé</c> <c>do</c> <c>coinnleoir</c> <c>óna</c> <c>ionad</c>, <c>mura</c> <c>ndéana</c> <c>tú</c> <c>aithrí</c>.",
+    "input": "Tógfaidh mé do coinnleoir óna ionad, mura ndéana tú aithrí."
+  },
+  {
+    "output": "<c>Is</c> <c>cúis</c> <c>imní</c> <c>don</c> <c>pobal</c> <c>a</c> <c>laghad</c> <c>maoinithe</c> <c>a</c> <c>dhéantar</c> <c>ar</c> <c>Naíscoileanna</c>.",
+    "input": "Is cúis imní don pobal a laghad maoinithe a dhéantar ar Naíscoileanna."
+  },
+  {
+    "output": "<c>Daoine</c> <c>eile</c> <c>atá</c> <c>ina</c> <c>mbaill</c> <c>den</c> <c>dhream</c> <c>seo</c>.",
+    "input": "Daoine eile atá ina mbaill den dhream seo."
+  },
+  {
+    "output": "<c>Creidim</c> <c>go</c> <c>raibh</c> <c>siad</c> <c>de</c> <c>an</c> <c>thuairim</c> <c>seo</c>.",
+    "input": "Creidim go raibh siad de an thuairim seo."
+  },
+  {
+    "output": "<c>Tá</c> <c>dhá</c> <c>teanga</c> <c>oifigiúla</c> <c>le</c> <c>stádas</c> <c>bunreachtúil</c> <c>á</c> <c>labhairt</c> <c>sa</c> <c>tír</c> <c>seo</c>.",
+    "input": "Tá dhá teanga oifigiúla le stádas bunreachtúil á labhairt sa tír seo."
+  },
+  {
+    "input": "Dhá fiacail lárnacha i ngach aon chomhla.",
+    "output": "<c>Dhá</c> <c>fiacail</c> <c>lárnacha</c> <c>i</c> <c>ngach</c> <c>aon</c> <c>chomhla</c>."
+  },
+  {
+    "output": "<c>Rug</c> <c>sí</c> <c>greim</c> <c>ar</c> <c>mo</c> <c>dhá</c> <c>gualainn</c> <c>agus</c> <c>an</c> <c>fhearg</c> <c>a</c> <c>bhí</c> <c>ina</c> <c>súile</c>.",
+    "input": "Rug sí greim ar mo dhá gualainn agus an fhearg a bhí ina súile."
+  },
+  {
+    "output": "<c>Bhí</c> <c>an</c> <c>dá</c> <c>taobh</c> <c>seo</c> <c>dá</c> <c>phearsantacht</c> <c>le</c> <c>feiceáil</c> <c>go</c> <c>soiléir</c>.",
+    "input": "Bhí an dá taobh seo dá phearsantacht le feiceáil go soiléir."
+  },
+  {
+    "input": "Bhí Eibhlín ar a dhá glúin.",
+    "output": "<c>Bhí</c> <c>Eibhlín</c> <c>ar</c> <c>a</c> <c>dhá</c> <c>glúin</c>."
+  },
+  {
+    "output": "<c>Is</c> <c>léir</c> <c>nach</c> <c>bhfuil</c> <c>an</c> <c>dhá</c> <c>theanga</c> <c>ar</c> <c>chomhchéim</c> <c>lena</c> <c>chéile</c>.",
+    "input": "Is léir nach bhfuil an dhá theanga ar chomhchéim lena chéile."
+  },
+  {
+    "input": "Tionóladh an chéad dhá chomórtas i nGaoth Dobhair.",
+    "output": "<c>Tionóladh</c> <c>an</c> <c>chéad</c> <c>dhá</c> <c>chomórtas</c> <c>i</c> <c>nGaoth</c> <c>Dobhair</c>."
+  },
+  {
+    "output": "<c>Cá</c> <c>bhfuil</c> <c>feoil</c> <c>le</c> <c>fáil</c> <c>agamsa</c> <c>le</c> <c>tabhairt</c> <c>do</c> <c>an</c> <c>mhuintir</c>?",
+    "input": "Cá bhfuil feoil le fáil agamsa le tabhairt do an mhuintir?"
+  },
+  {
+    "output": "<c>Is</c> <c>amhlaidh</c> <c>a</c> <c>bheidh</c> <c>freisin</c> <c>do</c> <c>na</c> <c>tagairtí</c> <c>do</c> <c>airteagail</c>.",
+    "input": "Is amhlaidh a bheidh freisin do na tagairtí do airteagail."
+  },
+  {
+    "output": "<c>Tá</c> <c>sé</c> <c>de</c> <c>chúram</c> <c>seirbhís</c> <c>a</c> <c>chur</c> <c>ar</c> <c>fáil</c> <c>do</c> <c>a</c> <c>chustaiméirí</c> <c>i</c> <c>nGaeilge</c>.",
+    "input": "Tá sé de chúram seirbhís a chur ar fáil do a chustaiméirí i nGaeilge."
+  },
+  {
+    "output": "<c>Seinnigí</c> <c>moladh</c> <c>ar</c> <c>an</c> <c>gcruit</c> <c>do</c> <c>ár</c> <c>máthair</c>.",
+    "input": "Seinnigí moladh ar an gcruit do ár máthair."
+  },
+  {
+    "output": "<c>Is</c> <c>é</c> <c>seo</c> <c>mo</c> <c>Mhac</c> <c>muirneach</c> <c>do</c> <c>ar</c> <c>thug</c> <c>mé</c> <c>gnaoi</c>.",
+    "input": "Is é seo mo Mhac muirneach do ar thug mé gnaoi."
+  },
+  {
+    "output": "<c>Tá</c> <c>an</c> <c>domhan</c> <c>go</c> <c>léir</c> <c>faoi</c> <c>suaimhneas</c>.",
+    "input": "Tá an domhan go léir faoi suaimhneas."
+  },
+  {
+    "output": "<c>Caithfidh</c> <c>pobal</c> <c>na</c> <c>Gaeltachta</c> <c>iad</c> <c>féin</c> <c>cinneadh</c> <c>a</c> <c>dhéanamh</c> <c>faoi</c> <c>an</c> <c>Ghaeilge</c>.",
+    "input": "Caithfidh pobal na Gaeltachta iad féin cinneadh a dhéanamh faoi an Ghaeilge."
+  },
+  {
+    "output": "<c>Cuireann</c> <c>sí</c> <c>a</c> <c>neart</c> <c>mar</c> <c>chrios</c> <c>faoi</c> <c>a</c> <c>coim</c>.",
+    "input": "Cuireann sí a neart mar chrios faoi a coim."
+  },
+  {
+    "input": "Cuireann sé ciníocha faoi ár smacht agus cuireann sé náisiúin faoinár gcosa.",
+    "output": "<c>Cuireann</c> <c>sé</c> <c>ciníocha</c> <c>faoi</c> <c>ár</c> <c>smacht</c> <c>agus</c> <c>cuireann</c> <c>sé</c> <c>náisiúin</c> <c>faoinár</c> <c>gcosa</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>dualgas</c> <c>ar</c> <c>an</c> <c>gComhairle</c> <c>sin</c> <c>tabhairt</c> <c>faoin</c> <c>cúram</c> <c>seo</c>.",
+    "input": "Tá dualgas ar an gComhairle sin tabhairt faoin cúram seo."
+  },
+  {
+    "input": "Tugadh mioneolas faoin dtionscnamh seo in Eagrán a haon.",
+    "output": "<c>Tugadh</c> <c>mioneolas</c> <c>faoin</c> <c>dtionscnamh</c> <c>seo</c> <c>in</c> <c>Eagrán</c> <c>a</c> <c>haon</c>."
+  },
+  {
+    "input": "Bhí lúcháir ar an Tiarna faoina dhearna sé!",
+    "output": "<c>Bhí</c> <c>lúcháir</c> <c>ar</c> <c>an</c> <c>Tiarna</c> <c>faoina</c> <c>dhearna</c> <c>sé</c>!"
+  },
+  {
+    "input": "Ní bheidh gearán ag duine ar bith faoin gciste fial atá faoinár cúram.",
+    "output": "<c>Ní</c> <c>bheidh</c> <c>gearán</c> <c>ag</c> <c>duine</c> <c>ar</c> <c>bith</c> <c>faoin</c> <c>gciste</c> <c>fial</c> <c>atá</c> <c>faoinár</c> <c>cúram</c>."
+  },
+  {
+    "output": "<c>Beidh</c> <c>paráid</c> <c>Lá</c> <c>Fhéile</c> <c>Phádraig</c> <c>i</c> <c>mBostún</c>.",
+    "input": "Beidh paráid Lá Fhéile Phádraig i mBostún."
+  },
+  {
+    "input": "Tá Féile Bhealtaine an Oireachtais ar siúl an tseachtain seo.",
+    "output": "<c>Tá</c> <c>Féile</c> <c>Bhealtaine</c> <c>an</c> <c>Oireachtais</c> <c>ar</c> <c>siúl</c> <c>an</c> <c>tseachtain</c> <c>seo</c>."
+  },
+  {
+    "input": "Fágtar na mílte eile gan ghéaga nó radharc na súl.",
+    "output": "<c>Fágtar</c> <c>na</c> <c>mílte</c> <c>eile</c> <c>gan</c> <c>ghéaga</c> <c>nó</c> <c>radharc</c> <c>na</c> <c>súl</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>ar</c> <c>chumas</c> <c>an</c> <c>duine</c> <c>saol</c> <c>iomlán</c> <c>a</c> <c>chaitheamh</c> <c>gan</c> <c>theanga</c> <c>eile</c> <c>á</c> <c>brú</c> <c>air</c>.",
+    "input": "Tá ar chumas an duine saol iomlán a chaitheamh gan theanga eile á brú air."
+  },
+  {
+    "output": "<c>Tá</c> <c>gruaim</c> <c>mhór</c> <c>orm</c> <c>gan</c> <c>Chaitlín</c>.",
+    "input": "Tá gruaim mhór orm gan Chaitlín."
+  },
+  {
+    "input": "Deir daoine eile, áfach, gur dailtín gan maith é.",
+    "output": "<c>Deir</c> <c>daoine</c> <c>eile</c>, <c>áfach</c>, <c>gur</c> <c>dailtín</c> <c>gan</c> <c>maith</c> <c>é</c>."
+  },
+  {
+    "output": "<c>Fuarthas</c> <c>an</c> <c>fear</c> <c>marbh</c> <c>ar</c> <c>an</c> <c>trá</c>, <c>a</c> <c>chorp</c> <c>gan</c> <c>máchail</c> <c>gan</c> <c>ghortú</c>.",
+    "input": "Fuarthas an fear marbh ar an trá, a chorp gan máchail gan ghortú."
+  },
+  {
+    "output": "<c>Dúirt</c> <c>sé</c> <c>liom</c> <c>gan</c> <c>pósadh</c>.",
+    "input": "Dúirt sé liom gan pósadh."
+  },
+  {
+    "input": "Na duilleoga ar an ngas beag, cruth lansach orthu agus iad gan cos fúthu.",
+    "output": "<c>Na</c> <c>duilleoga</c> <c>ar</c> <c>an</c> <c>ngas</c> <c>beag</c>, <c>cruth</c> <c>lansach</c> <c>orthu</c> <c>agus</c> <c>iad</c> <c>gan</c> <c>cos</c> <c>fúthu</c>."
+  },
+  {
+    "input": "D'fhág sin gan meas dá laghad ag duine ar bith air.",
+    "output": "<c>D'fhág</c> <c>sin</c> <c>gan</c> <c>meas</c> <c>dá</c> <c>laghad</c> <c>ag</c> <c>duine</c> <c>ar</c> <c>bith</c> <c>air</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>mé</c> <c>gan</c> <c>cos</c> <c>go</c> <c>brách</c>.",
+    "input": "Tá mé gan cos go brách."
+  },
+  {
+    "input": "Níl sé ceadaithe aistriú ó rang go chéile gan cead a fháil uaim.",
+    "output": "<c>Níl</c> <c>sé</c> <c>ceadaithe</c> <c>aistriú</c> <c>ó</c> <c>rang</c> <c>go</c> <c>chéile</c> <c>gan</c> <c>cead</c> <c>a</c> <c>fháil</c> <c>uaim</c>."
+  },
+  {
+    "input": "Is stáit ilteangacha iad cuid mhór de na stáit sin atá aonteangach go oifigiúil.",
+    "output": "<c>Is</c> <c>stáit</c> <c>ilteangacha</c> <c>iad</c> <c>cuid</c> <c>mhór</c> <c>de</c> <c>na</c> <c>stáit</c> <c>sin</c> <c>atá</c> <c>aonteangach</c> <c>go</c> <c>oifigiúil</c>."
+  },
+  {
+    "input": "Ní bheidh bonn comparáide ann go beidh torthaí Dhaonáireamh 2007 ar fáil.",
+    "output": "<c>Ní</c> <c>bheidh</c> <c>bonn</c> <c>comparáide</c> <c>ann</c> <c>go</c> <c>beidh</c> <c>torthaí</c> <c>Dhaonáireamh</c> <A>2007</A> <c>ar</c> <c>fáil</c>."
+  },
+  {
+    "input": "Rug sé ar ais mé go dhoras an Teampaill.",
+    "output": "<c>Rug</c> <c>sé</c> <c>ar</c> <c>ais</c> <c>mé</c> <c>go</c> <c>dhoras</c> <c>an</c> <c>Teampaill</c>."
+  },
+  {
+    "output": "<c>Tiocfaidh</c> <c>coimhlintí</c> <c>chun</c> <c>tosaigh</c> <c>sa</c> <c>Chumann</c> <c>ó</c> <c>am</c> <c>go</c> <c>chéile</c>.",
+    "input": "Tiocfaidh coimhlintí chun tosaigh sa Chumann ó am go chéile."
+  },
+  {
+    "output": "<c>Is</c> <c>turas</c> <c>iontach</c> <c>é</c> <c>an</c> <c>turas</c> <c>ó</c> <c>bheith</c> <c>i</c> <c>do</c> <c>thosaitheoir</c> <c>go</c> <c>bheith</c> <c>i</c> <c>do</c> <c>mhúinteoir</c>.",
+    "input": "Is turas iontach é an turas ó bheith i do thosaitheoir go bheith i do mhúinteoir."
+  },
+  {
+    "input": "Chuaigh mé suas go an doras cúil a chaisleáin.",
+    "output": "<c>Chuaigh</c> <c>mé</c> <c>suas</c> <c>go</c> <c>an</c> <c>doras</c> <c>cúil</c> <c>a</c> <c>chaisleáin</c>."
+  },
+  {
+    "input": "Tháinig Pól Ó Coileáin go mo theach ar maidin.",
+    "output": "<c>Tháinig</c> <c>Pól</c> <c>Ó</c> <c>Coileáin</c> <c>go</c> <c>mo</c> <c>theach</c> <c>ar</c> <c>maidin</c>."
+  },
+  {
+    "input": "Bhí an teachtaireacht dulta go m'inchinn.",
+    "output": "<c>Bhí</c> <c>an</c> <c>teachtaireacht</c> <c>dulta</c> <c>go</c> <c>m'inchinn</c>."
+  },
+  {
+    "input": "Tar, téanam go dtí bhean na bhfíseanna.",
+    "output": "<c>Tar</c>, <c>téanam</c> <c>go</c> <c>dtí</c> <c>bhean</c> <c>na</c> <c>bhfíseanna</c>."
+  },
+  {
+    "output": "<c>Agus</c> <c>rachaidh</c> <c>mé</c> <c>siar</c> <c>go</c> <c>dtí</c> <c>thú</c> <c>tráthnóna</c>, <c>más</c> <c>maith</c> <c>leat</c>.",
+    "input": "Agus rachaidh mé siar go dtí thú tráthnóna, más maith leat."
+  },
+  {
+    "input": "Ba mhaith liom gur bhfágann daoine óga an scoil agus iad ullmhaithe.",
+    "output": "<c>Ba</c> <c>mhaith</c> <c>liom</c> <c>gur</c> <c>bhfágann</c> <c>daoine</c> <c>óga</c> <c>an</c> <c>scoil</c> <c>agus</c> <c>iad</c> <c>ullmhaithe</c>."
+  },
+  {
+    "output": "<c>Bhraith</c> <c>mé</c> <c>gur</c> <c>fuair</c> <c>mé</c> <c>boladh</c> <c>trom</c> <c>tais</c> <c>uathu</c>.",
+    "input": "Bhraith mé gur fuair mé boladh trom tais uathu."
+  },
+  {
+    "input": "An ea nach cás leat gur bhfág mo dheirfiúr an freastal fúmsa i m'aonar?",
+    "output": "<c>An</c> <c>ea</c> <c>nach</c> <c>cás</c> <c>leat</c> <c>gur</c> <c>bhfág</c> <c>mo</c> <c>dheirfiúr</c> <c>an</c> <c>freastal</c> <c>fúmsa</c> <c>i</c> <c>m'aonar</c>?"
+  },
+  {
+    "output": "<c>B'fhéidir</c> <c>gurbh</c> <c>fearr</c> <c>é</c> <c>seo</c> <c>duit</c> <c>ná</c> <c>leamhnacht</c> <c>na</c> <c>bó</c> <c>ba</c> <c>mhilse</c> <c>i</c> <c>gcontae</c> <c>Chill</c> <c>Mhantáin</c>.",
+    "input": "B'fhéidir gurbh fearr é seo duit ná leamhnacht na bó ba mhilse i gcontae Chill Mhantáin."
+  },
+  {
+    "input": "Tá ainm i n-easnamh a mbeadh coinne agat leis.",
+    "output": "<c>Tá</c> <c>ainm</c> <c>i</c> <c>n-easnamh</c> <c>a</c> <c>mbeadh</c> <c>coinne</c> <c>agat</c> <c>leis</c>."
+  },
+  {
+    "input": "Tá ainm i easnamh a mbeadh coinne agat leis.",
+    "output": "<c>Tá</c> <c>ainm</c> <c>i</c> <c>easnamh</c> <c>a</c> <c>mbeadh</c> <c>coinne</c> <c>agat</c> <c>leis</c>."
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>i</c> <c>dhá</c> <c>chuisneoir</c>?",
+    "input": "An bhfuil aon uachtar reoite agat i dhá chuisneoir?"
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>i</c> <c>cuisneoir</c>?",
+    "input": "An bhfuil aon uachtar reoite agat i cuisneoir?"
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>i</c> <c>chuisneoir</c>?",
+    "input": "An bhfuil aon uachtar reoite agat i chuisneoir?"
+  },
+  {
+    "input": "Táimid ag lorg 200 Club Gailf i gach cearn d'Éirinn.",
+    "output": "<c>Táimid</c> <c>ag</c> <c>lorg</c> <A>200</A> <c>Club</c> <c>Gailf</c> <c>i</c> <c>gach</c> <c>cearn</c> <c>d'Éirinn</c>."
+  },
+  {
+    "input": "An bhfuil aon uachtar reoite agaibh i bhur mála?",
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agaibh</c> <c>i</c> <c>bhur</c> <c>mála</c>?"
+  },
+  {
+    "input": "Bhí slám de pháipéar tais ag cruinniú i mhullach a chéile.",
+    "output": "<c>Bhí</c> <c>slám</c> <c>de</c> <c>pháipéar</c> <c>tais</c> <c>ag</c> <c>cruinniú</c> <c>i</c> <c>mhullach</c> <c>a</c> <c>chéile</c>."
+  },
+  {
+    "input": "Fuair Derek Bell bás tobann i Phoenix.",
+    "output": "<c>Fuair</c> <c>Derek</c> <c>Bell</c> <c>bás</c> <c>tobann</c> <c>i</c> <c>Phoenix</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>níos</c> <c>mó</c> <c>ná</c> <A>8500</A> <c>múinteoir</c> <c>ann</c> <c>i</c> <c>thart</c> <c>faoi</c> <A>540</A> <c>scoil</c>.",
+    "input": "Tá níos mó ná 8500 múinteoir ann i thart faoi 540 scoil."
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>i</c> <c>an</c> <c>chuisneoir</c>?",
+    "input": "An bhfuil aon uachtar reoite agat i an chuisneoir?"
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>i</c> <c>na</c> <c>cuisneoirí</c>?",
+    "input": "An bhfuil aon uachtar reoite agat i na cuisneoirí?"
+  },
+  {
+    "input": "An bhfuil aon uachtar reoite i a cuisneoir?",
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>i</c> <c>a</c> <c>cuisneoir</c>?"
+  },
+  {
+    "output": "<c>Roghnaigh</c> <c>na</c> <c>teangacha</c> <c>i</c> <c>a</c> <c>nochtar</c> <c>na</c> <c>leathanaigh</c> <c>seo</c>.",
+    "input": "Roghnaigh na teangacha i a nochtar na leathanaigh seo."
+  },
+  {
+    "output": "<c>Rinne</c> <c>gach</c> <c>cine</c> <c>é</c> <c>sin</c> <c>sna</c> <c>cathracha</c> <c>i</c> <c>ar</c> <c>lonnaíodar</c>.",
+    "input": "Rinne gach cine é sin sna cathracha i ar lonnaíodar."
+  },
+  {
+    "input": "An bhfuil aon uachtar reoite i ár mála?",
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>i</c> <c>ár</c> <c>mála</c>?"
+  },
+  {
+    "output": "<c>Thug</c> <c>sé</c> <c>seo</c> <c>deis</c> <c>dom</c> <c>breathnú</c> <c>in</c> <c>mo</c> <c>thimpeall</c>.",
+    "input": "Thug sé seo deis dom breathnú in mo thimpeall."
+  },
+  {
+    "input": "Phós sí Pádraig, fear ón mBlascaod Mór, in 1982.",
+    "output": "<c>Phós</c> <c>sí</c> <c>Pádraig</c>, <c>fear</c> <c>ón</c> <c>mBlascaod</c> <c>Mór</c>, <c>in</c> <A>1982</A>."
+  },
+  {
+    "input": "Phós sí Pádraig, fear ón mBlascaod Mór, in 1892.",
+    "output": "<c>Phós</c> <c>sí</c> <c>Pádraig</c>, <c>fear</c> <c>ón</c> <c>mBlascaod</c> <c>Mór</c>, <c>in</c> <A>1892</A>."
+  },
+  {
+    "input": "Theastaigh uaibh beirt bheith in bhur scríbhneoirí.",
+    "output": "<c>Theastaigh</c> <c>uaibh</c> <c>beirt</c> <c>bheith</c> <c>in</c> <c>bhur</c> <c>scríbhneoirí</c>."
+  },
+  {
+    "output": "<c>Beidh</c> <c>an</c> <c>spórt</c> <c>seo</c> <c>á</c> <c>imirt</c> <c>in</c> <c>dhá</c> <c>ionad</c>.",
+    "input": "Beidh an spórt seo á imirt in dhá ionad."
+  },
+  {
+    "input": "Cad é an rud is mó faoi na Gaeil ina chuireann sé suim?",
+    "output": "<c>Cad</c> <c>é</c> <c>an</c> <c>rud</c> <c>is</c> <c>mó</c> <c>faoi</c> <c>na</c> <c>Gaeil</c> <c>ina</c> <c>chuireann</c> <c>sé</c> <c>suim</c>?"
+  },
+  {
+    "input": "Tá beirfean inár craiceann faoi mar a bheimis i sorn.",
+    "output": "<c>Tá</c> <c>beirfean</c> <c>inár</c> <c>craiceann</c> <c>faoi</c> <c>mar</c> <c>a</c> <c>bheimis</c> <c>i</c> <c>sorn</c>."
+  },
+  {
+    "input": "Is tuar dóchais é an méid dul chun cinn atá déanta le bhlianta beaga.",
+    "output": "<c>Is</c> <c>tuar</c> <c>dóchais</c> <c>é</c> <c>an</c> <c>méid</c> <c>dul</c> <c>chun</c> <c>cinn</c> <c>atá</c> <c>déanta</c> <c>le</c> <c>bhlianta</c> <c>beaga</c>."
+  },
+  {
+    "input": "Leanaigí oraibh le bhur ndílseacht dúinn.",
+    "output": "<c>Leanaigí</c> <c>oraibh</c> <c>le</c> <c>bhur</c> <c>ndílseacht</c> <c>dúinn</c>."
+  },
+  {
+    "input": "Baineann an scéim le thart ar 28,000 miondíoltóir ar fud na tíre.",
+    "output": "<c>Baineann</c> <c>an</c> <c>scéim</c> <c>le</c> <c>thart</c> <c>ar</c> <Y>28,000</Y> <c>miondíoltóir</c> <c>ar</c> <c>fud</c> <c>na</c> <c>tíre</c>."
+  },
+  {
+    "input": "Níor cuireadh aon tine síos, ar ndóigh, le chomh breá is a bhí an aimsir.",
+    "output": "<c>Níor</c> <c>cuireadh</c> <c>aon</c> <c>tine</c> <c>síos</c>, <c>ar</c> <c>ndóigh</c>, <c>le</c> <c>chomh</c> <c>breá</c> <c>is</c> <c>a</c> <c>bhí</c> <c>an</c> <c>aimsir</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>sí</c> <c>ag</c> <c>teacht</c> <c>le</c> <c>thú</c> <c>a</c> <c>fheiceáil</c>.",
+    "input": "Tá sí ag teacht le thú a fheiceáil."
+  },
+  {
+    "input": "D'fhéadfadh tábhacht a bheith ag baint le an gcéad toisc díobh sin.",
+    "output": "<c>D'fhéadfadh</c> <c>tábhacht</c> <c>a</c> <c>bheith</c> <c>ag</c> <c>baint</c> <c>le</c> <c>an</c> <c>gcéad</c> <c>toisc</c> <c>díobh</c> <c>sin</c>."
+  },
+  {
+    "output": "<c>Molann</c> <c>an</c> <c>Coimisiún</c> <c>go</c> <c>maoineofaí</c> <c>scéim</c> <c>chun</c> <c>tacú</c> <c>le</c> <c>na</c> <c>pobail</c>.",
+    "input": "Molann an Coimisiún go maoineofaí scéim chun tacú le na pobail."
+  },
+  {
+    "input": "Labhraíodh gach duine an fhírinne le a chomharsa.",
+    "output": "<c>Labhraíodh</c> <c>gach</c> <c>duine</c> <c>an</c> <c>fhírinne</c> <c>le</c> <c>a</c> <c>chomharsa</c>."
+  },
+  {
+    "input": "Le halt 16 i ndáil le hiarratas ar ordú le a meastar gur tugadh toiliú.",
+    "output": "<c>Le</c> <c>halt</c> <A>16</A> <c>i</c> <c>ndáil</c> <c>le</c> <c>hiarratas</c> <c>ar</c> <c>ordú</c> <c>le</c> <c>a</c> <c>meastar</c> <c>gur</c> <c>tugadh</c> <c>toiliú</c>."
+  },
+  {
+    "input": "Beir i do láimh ar an tslat le ar bhuail tú an abhainn, agus seo leat.",
+    "output": "<c>Beir</c> <c>i</c> <c>do</c> <c>láimh</c> <c>ar</c> <c>an</c> <c>tslat</c> <c>le</c> <c>ar</c> <c>bhuail</c> <c>tú</c> <c>an</c> <c>abhainn</c>, <c>agus</c> <c>seo</c> <c>leat</c>."
+  },
+  {
+    "input": "Ba mhaith liom buíochas a ghlacadh le ár seirbhís riaracháin.",
+    "output": "<c>Ba</c> <c>mhaith</c> <c>liom</c> <c>buíochas</c> <c>a</c> <c>ghlacadh</c> <c>le</c> <c>ár</c> <c>seirbhís</c> <c>riaracháin</c>."
+  },
+  {
+    "output": "<c>Tógann</c> <c>siad</c> <c>cuid</c> <c>de</c> <c>le</c> <c>iad</c> <c>féin</c> <c>a</c> <c>théamh</c>.",
+    "input": "Tógann siad cuid de le iad féin a théamh."
+  },
+  {
+    "output": "<c>Tá</c> <c>do</c> <c>scrios</c> <c>chomh</c> <c>leathan</c> <c>leis</c> <c>an</c> <c>farraige</c>.",
+    "input": "Tá do scrios chomh leathan leis an farraige."
+  },
+  {
+    "input": "Cuir alt eile lenar bhfuil scríofa agat i gCeist a trí.",
+    "output": "<c>Cuir</c> <c>alt</c> <c>eile</c> <c>lenar</c> <c>bhfuil</c> <c>scríofa</c> <c>agat</c> <c>i</c> <c>gCeist</c> <c>a</c> <c>trí</c>."
+  },
+  {
+    "input": "Is linne í ar ndóigh agus lenár clann.",
+    "output": "<c>Is</c> <c>linne</c> <c>í</c> <c>ar</c> <c>ndóigh</c> <c>agus</c> <c>lenár</c> <c>clann</c>."
+  },
+  {
+    "input": "Má thiocfaidh acmhainní breise ar fáil, beidh mé sásta.",
+    "output": "<c>Má</c> <c>thiocfaidh</c> <c>acmhainní</c> <c>breise</c> <c>ar</c> <c>fáil</c>, <c>beidh</c> <c>mé</c> <c>sásta</c>."
+  },
+  {
+    "input": "Má tugann rí breith ar na boicht le cothromas, bunófar a ríchathaoir go brách.",
+    "output": "<c>Má</c> <c>tugann</c> <c>rí</c> <c>breith</c> <c>ar</c> <c>na</c> <c>boicht</c> <c>le</c> <c>cothromas</c>, <c>bunófar</c> <c>a</c> <c>ríchathaoir</c> <c>go</c> <c>brách</c>."
+  },
+  {
+    "input": "Má deirim libh é, ní chreidfidh sibh.",
+    "output": "<c>Má</c> <c>deirim</c> <c>libh</c> <c>é</c>, <c>ní</c> <c>chreidfidh</c> <c>sibh</c>."
+  },
+  {
+    "output": "<c>Má</c> <c>tá</c> <c>suim</c> <c>agat</c> <c>sa</c> <c>turas</c> <c>seo</c>, <c>seol</c> <c>d'ainm</c> <c>chugamsa</c>.",
+    "input": "Má tá suim agat sa turas seo, seol d'ainm chugamsa."
+  },
+  {
+    "output": "<c>Má</c> <c>fuair</c> <c>níor</c> <c>fhreagair</c> <c>sé</c> <c>an</c> <c>facs</c>.",
+    "input": "Má fuair níor fhreagair sé an facs."
+  },
+  {
+    "input": "Roghnaítear an bhliain 1961 mar pointe tosaigh don anailís.",
+    "output": "<c>Roghnaítear</c> <c>an</c> <c>bhliain</c> <A>1961</A> <c>mar</c> <c>pointe</c> <c>tosaigh</c> <c>don</c> <c>anailís</c>."
+  },
+  {
+    "input": "Aithnítear é mar an údarás.",
+    "output": "<c>Aithnítear</c> <c>é</c> <c>mar</c> <c>an</c> <c>údarás</c>."
+  },
+  {
+    "output": "<c>Más</c> <c>mhian</c> <c>leat</c> <c>tuilleadh</c> <c>eolais</c> <c>a</c> <c>fháil</c>, <c>scríobh</c> <c>chugainn</c>.",
+    "input": "Más mhian leat tuilleadh eolais a fháil, scríobh chugainn."
+  },
+  {
+    "output": "<c>Tá</c> <c>caitheamh</c> <c>na</c> <c>hola</c> <c>ag</c> <c>dul</c> <c>i</c> <c>méad</c> <c>i</c> <c>gcónaí</c>.",
+    "input": "Tá caitheamh na hola ag dul i méad i gcónaí."
+  },
+  {
+    "input": "Tosaíodh ar mhodh adhlactha eile ina mbaintí úsáid as clocha measartha móra.",
+    "output": "<c>Tosaíodh</c> <c>ar</c> <c>mhodh</c> <c>adhlactha</c> <c>eile</c> <c>ina</c> <c>mbaintí</c> <c>úsáid</c> <c>as</c> <c>clocha</c> <c>measartha</c> <c>móra</c>."
+  },
+  {
+    "output": "<c>Comhlíon</c> <c>mo</c> <c>aitheanta</c> <c>agus</c> <c>mairfidh</c> <c>tú</c> <c>beo</c>.",
+    "input": "Comhlíon mo aitheanta agus mairfidh tú beo."
+  },
+  {
+    "input": "Ceapadh mise i mo bolscaire.",
+    "output": "<c>Ceapadh</c> <c>mise</c> <c>i</c> <c>mo</c> <c>bolscaire</c>."
+  },
+  {
+    "input": "Tá mé ag sclábhaíocht ag iarraidh mo dhá gasúr a chur trí scoil.",
+    "output": "<c>Tá</c> <c>mé</c> <c>ag</c> <c>sclábhaíocht</c> <c>ag</c> <c>iarraidh</c> <c>mo</c> <c>dhá</c> <c>gasúr</c> <c>a</c> <c>chur</c> <c>trí</c> <c>scoil</c>."
+  },
+  {
+    "output": "<c>Agus</c> <c>anois</c> <c>bhí</c> <c>mórsheisear</c> <c>iníonacha</c> <c>ag</c> <c>an</c> <c>sagart</c>.",
+    "input": "Agus anois bhí mórsheisear iníonacha ag an sagart."
+  },
+  {
+    "input": "Mura dtuig siad é, nach dóibh féin is mó náire?",
+    "output": "<c>Mura</c> <c>dtuig</c> <c>siad</c> <c>é</c>, <c>nach</c> <c>dóibh</c> <c>féin</c> <c>is</c> <c>mó</c> <c>náire</c>?"
+  },
+  {
+    "output": "<c>Mura</c> <c>bhfuair</c>, <c>sin</c> <c>an</c> <c>chraobh</c> <c>aige</c>.",
+    "input": "Mura bhfuair, sin an chraobh aige."
+  },
+  {
+    "output": "<c>Mura</c> <c>tagann</c> <c>aon</c> <c>duine</c> <c>i</c> <c>gcabhair</c> <c>orainn</c>, <c>rachaimid</c> <c>anonn</c> <c>chugaibh</c>.",
+    "input": "Mura tagann aon duine i gcabhair orainn, rachaimid anonn chugaibh."
+  },
+  {
+    "output": "<c>Fiú</c> <c>mura</c> <c>éiríonn</c> <c>liom</c>, <c>beidh</c> <c>mé</c> <c>ábalta</c> <c>cabhrú</c> <c>ar</c> <c>bhonn</c> <c>deonach</c>.",
+    "input": "Fiú mura éiríonn liom, beidh mé ábalta cabhrú ar bhonn deonach."
+  },
+  {
+    "output": "<c>Murach</c> <c>bheith</c> <c>mar</c> <c>sin</c>, <c>bheadh</c> <c>sé</c> <c>dodhéanta</c> <c>dó</c> <c>oibriú</c> <c>na</c> <c>huaireanta</c> <c>fada</c>.",
+    "input": "Murach bheith mar sin, bheadh sé dodhéanta dó oibriú na huaireanta fada."
+  },
+  {
+    "input": "Murar chruthaítear lá agus oíche... teilgim uaim sliocht Iacóib.",
+    "output": "<c>Murar</c> <c>chruthaítear</c> <c>lá</c> <c>agus</c> <c>oíche</c>... <c>teilgim</c> <c>uaim</c> <c>sliocht</c> <c>Iacóib</c>."
+  },
+  {
+    "input": "Murar gcruthaigh mise lá agus oíche... teilgim uaim sliocht Iacóib.",
+    "output": "<c>Murar</c> <c>gcruthaigh</c> <c>mise</c> <c>lá</c> <c>agus</c> <c>oíche</c>... <c>teilgim</c> <c>uaim</c> <c>sliocht</c> <c>Iacóib</c>."
+  },
+  {
+    "input": "An bhfuil aon uachtar reoite ag fear na bád?",
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>ag</c> <c>fear</c> <c>na</c> <c>bád</c>?"
+  },
+  {
+    "output": "<c>Is</c> <c>mór</c> <c>ag</c> <c>náisiún</c> <c>na</c> <c>Éireann</c> <c>a</c> <c>choibhneas</c> <c>speisialta</c> <c>le</c> <c>daoine</c> <c>de</c> <c>bhunadh</c> <c>na</c> <c>hÉireann</c> <c>atá</c> <c>ina</c> <c>gcónaí</c> <c>ar</c> <c>an</c> <c>gcoigríoch</c>.",
+    "input": "Is mór ag náisiún na Éireann a choibhneas speisialta le daoine de bhunadh na hÉireann atá ina gcónaí ar an gcoigríoch."
+  },
+  {
+    "input": "Chuir an Coimisiún féin comhfhreagras chuig na eagraíochtaí seo ag lorg eolais faoina ngníomhaíochtaí.",
+    "output": "<c>Chuir</c> <c>an</c> <c>Coimisiún</c> <c>féin</c> <c>comhfhreagras</c> <c>chuig</c> <c>na</c> <c>eagraíochtaí</c> <c>seo</c> <c>ag</c> <c>lorg</c> <c>eolais</c> <c>faoina</c> <c>ngníomhaíochtaí</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>an</c> <c>tréith</c> <c>sin</c> <c>coitianta</c> <c>i</c> <c>measc</c> <c>na</c> <c>nÉireannaigh</c> <c>sa</c> <c>tír</c> <c>seo</c>.",
+    "input": "Tá an tréith sin coitianta i measc na nÉireannaigh sa tír seo."
+  },
+  {
+    "input": "Athdhéantar na snáithe i ngach ceann de na curaclaim seo.",
+    "output": "<c>Athdhéantar</c> <c>na</c> <c>snáithe</c> <c>i</c> <c>ngach</c> <c>ceann</c> <c>de</c> <c>na</c> <c>curaclaim</c> <c>seo</c>."
+  },
+  {
+    "input": "Ná iompaígí chun na n-íol, agus ná dealbhaígí déithe de mhiotal.",
+    "output": "<c>Ná</c> <c>iompaígí</c> <c>chun</c> <c>na</c> <c>n-íol</c>, <c>agus</c> <c>ná</c> <c>dealbhaígí</c> <c>déithe</c> <c>de</c> <c>mhiotal</c>."
+  },
+  {
+    "input": "Tá tú níos faide sa tír ná is dleathach duit a bheith.",
+    "output": "<c>Tá</c> <c>tú</c> <c>níos</c> <c>faide</c> <c>sa</c> <c>tír</c> <c>ná</c> <c>is</c> <c>dleathach</c> <c>duit</c> <c>a</c> <c>bheith</c>."
+  },
+  {
+    "input": "Ach ní sin an cultúr a bhí ná atá go fóill.",
+    "output": "<c>Ach</c> <c>ní</c> <c>sin</c> <c>an</c> <c>cultúr</c> <c>a</c> <c>bhí</c> <c>ná</c> <c>atá</c> <c>go</c> <c>fóill</c>."
+  },
+  {
+    "output": "<c>Agus</c> <c>creid</c> <c>nó</c> <c>ná</c> <c>chreid</c>, <c>nach</c> <c>bhfuil</c> <c>an</c> <c>lámhscríbhinn</c> <c>agam</c> <c>féin</c>.",
+    "input": "Agus creid nó ná chreid, nach bhfuil an lámhscríbhinn agam féin."
+  },
+  {
+    "input": "Is fearr de bhéile luibheanna agus grá leo ná mhart méith agus gráin leis.",
+    "output": "<c>Is</c> <c>fearr</c> <c>de</c> <c>bhéile</c> <c>luibheanna</c> <c>agus</c> <c>grá</c> <c>leo</c> <c>ná</c> <c>mhart</c> <c>méith</c> <c>agus</c> <c>gráin</c> <c>leis</c>."
+  },
+  {
+    "input": "Is fearr an bás ná bheith beo ar dhéirc.",
+    "output": "<c>Is</c> <c>fearr</c> <c>an</c> <c>bás</c> <c>ná</c> <c>bheith</c> <c>beo</c> <c>ar</c> <c>dhéirc</c>."
+  },
+  {
+    "output": "<c>Nach</c> <c>raibh</c> <c>dóthain</c> <c>eolais</c> <c>aige</c>?",
+    "input": "Nach raibh dóthain eolais aige?"
+  },
+  {
+    "input": "Nach bainfidh mé uaidh an méid a ghoid sé uaim?",
+    "output": "<c>Nach</c> <c>bainfidh</c> <c>mé</c> <c>uaidh</c> <c>an</c> <c>méid</c> <c>a</c> <c>ghoid</c> <c>sé</c> <c>uaim</c>?"
+  },
+  {
+    "output": "<c>Nach</c> <c>ghasta</c> <c>a</c> <c>fuair</c> <c>tú</c> <c>í</c>!",
+    "input": "Nach ghasta a fuair tú í!"
+  },
+  {
+    "output": "<c>Tháinig</c> <c>na</c> <c>bróga</c> <c>chomh</c> <c>fada</c> <c>siar</c> <c>le</c> <c>haimsir</c> <c>Naomh</c> <c>Phádraig</c> <c>féin</c>.",
+    "input": "Tháinig na bróga chomh fada siar le haimsir Naomh Phádraig féin."
+  },
+  {
+    "input": "Nár breá liom claíomh a bheith agam i mo ghlac!",
+    "output": "<c>Nár</c> <c>breá</c> <c>liom</c> <c>claíomh</c> <c>a</c> <c>bheith</c> <c>agam</c> <c>i</c> <c>mo</c> <c>ghlac</c>!"
+  },
+  {
+    "output": "<c>Nár</c> <c>bhfreagair</c> <c>sé</c> <c>thú</c>, <c>focal</c> <c>ar</c> <c>fhocal</c>.",
+    "input": "Nár bhfreagair sé thú, focal ar fhocal."
+  },
+  {
+    "input": "Feicimid gur de dheasca a n-easumhlaíochta nárbh féidir leo dul isteach ann.",
+    "output": "<c>Feicimid</c> <c>gur</c> <c>de</c> <c>dheasca</c> <c>a</c> <c>n-easumhlaíochta</c> <c>nárbh</c> <c>féidir</c> <c>leo</c> <c>dul</c> <c>isteach</c> <c>ann</c>."
+  },
+  {
+    "output": "<c>Ní</c> <c>fuaireamar</c> <c>puinn</c> <c>eile</c> <c>tuairisce</c> <c>air</c> <c>i</c> <c>ndiaidh</c> <c>sin</c>.",
+    "input": "Ní fuaireamar puinn eile tuairisce air i ndiaidh sin."
+  },
+  {
+    "output": "<c>Ní</c> <c>chuireadar</c> <c>aon</c> <c>áthas</c> <c>ar</c> <c>Mhac</c> <c>Dara</c>.",
+    "input": "Ní chuireadar aon áthas ar Mhac Dara."
+  },
+  {
+    "output": "<c>Ní</c> <c>dúirt</c> <c>sé</c> <c>cad</c> <c>a</c> <c>bhí</c> <c>déanta</c> <c>acu</c>.",
+    "input": "Ní dúirt sé cad a bhí déanta acu."
+  },
+  {
+    "output": "<c>Ní</c> <c>féadfaidh</c> <c>a</c> <c>gcuid</c> <c>airgid</c> <c>ná</c> <c>óir</c> <c>iad</c> <c>a</c> <c>shábháil</c>.",
+    "input": "Ní féadfaidh a gcuid airgid ná óir iad a shábháil."
+  },
+  {
+    "input": "Ní bhfaighidh tú aon déirce uaim.",
+    "output": "<c>Ní</c> <c>bhfaighidh</c> <c>tú</c> <c>aon</c> <c>déirce</c> <c>uaim</c>."
+  },
+  {
+    "output": "<c>Ní</c> <c>deir</c> <c>sé</c> <c>é</c> <c>seo</c> <c>le</c> <c>haon</c> <c>ghráin</c>.",
+    "input": "Ní deir sé é seo le haon ghráin."
+  },
+  {
+    "input": "Ní iad sin do phíopaí ar an tábla!",
+    "output": "<c>Ní</c> <c>iad</c> <c>sin</c> <c>do</c> <c>phíopaí</c> <c>ar</c> <c>an</c> <c>tábla</c>!"
+  },
+  {
+    "input": "Ní dheireadh aon duine acu aon rud liom.",
+    "output": "<c>Ní</c> <c>dheireadh</c> <c>aon</c> <c>duine</c> <c>acu</c> <c>aon</c> <c>rud</c> <c>liom</c>."
+  },
+  {
+    "input": "Ní fhéidir dóibh duine a shaoradh ón mbás.",
+    "output": "<c>Ní</c> <c>fhéidir</c> <c>dóibh</c> <c>duine</c> <c>a</c> <c>shaoradh</c> <c>ón</c> <c>mbás</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>tuairisc</c> <c>ar</c> <c>an</c> <c>léacht</c> <c>a</c> <c>thug</c> <c>Niamh</c> <c>Nic</c> <c>Suibhne</c> <c>ar</c> <c>leathanach</c> <c>a</c> <c>hocht</c>.",
+    "input": "Tá tuairisc ar an léacht a thug Niamh Nic Suibhne ar leathanach a hocht."
+  },
+  {
+    "output": "<c>Is</c> <c>saoririseoir</c> <c>agus</c> <c>ceoltóir</c> <c>í</c> <c>Aoife</c> <c>Nic</c> <c>Chormaic</c>.",
+    "input": "Is saoririseoir agus ceoltóir í Aoife Nic Chormaic."
+  },
+  {
+    "input": "&quot;Tá,&quot; ar sise, &quot;ach níor fhacthas é sin.&quot;",
+    "output": "&quot;<c>Tá</c>,&quot; <c>ar</c> <c>sise</c>, &quot;<c>ach</c> <c>níor</c> <c>fhacthas</c> <c>é</c> <c>sin</c>.&quot;"
+  },
+  {
+    "input": "Níor gá do dheoraí riamh codladh sa tsráid; Bhí mo dhoras riamh ar leathadh.",
+    "output": "<c>Níor</c> <c>gá</c> <c>do</c> <c>dheoraí</c> <c>riamh</c> <c>codladh</c> <c>sa</c> <c>tsráid</c>; <c>Bhí</c> <c>mo</c> <c>dhoras</c> <c>riamh</c> <c>ar</c> <c>leathadh</c>."
+  },
+  {
+    "output": "&quot;<c>Tá</c>,&quot; <c>ar</c> <c>sise</c>, &quot;<c>ach</c> <c>níor</c> <c>fuair</c> <c>muid</c> <c>aon</c> <c>ocras</c> <c>fós</c>.",
+    "input": "&quot;Tá,&quot; ar sise, &quot;ach níor fuair muid aon ocras fós."
+  },
+  {
+    "input": "Níor mbain sé leis an dream a bhí i gcogar ceilge.",
+    "output": "<c>Níor</c> <c>mbain</c> <c>sé</c> <c>leis</c> <c>an</c> <c>dream</c> <c>a</c> <c>bhí</c> <c>i</c> <c>gcogar</c> <c>ceilge</c>."
+  },
+  {
+    "input": "Níorbh foláir dó éisteacht a thabhairt dom.",
+    "output": "<c>Níorbh</c> <c>foláir</c> <c>dó</c> <c>éisteacht</c> <c>a</c> <c>thabhairt</c> <c>dom</c>."
+  },
+  {
+    "input": "Eoghan Ó Anluain a thabharfaidh léacht deiridh na comhdhála.",
+    "output": "<c>Eoghan</c> <c>Ó</c> <c>Anluain</c> <c>a</c> <c>thabharfaidh</c> <c>léacht</c> <c>deiridh</c> <c>na</c> <c>comhdhála</c>."
+  },
+  {
+    "output": "<c>Ach</c> <c>anois</c> <c>ó</c> <c>cuimhním</c> <c>air</c>, <c>bhí</c> <c>ardán</c> <c>coincréite</c> <c>sa</c> <c>pháirc</c>.",
+    "input": "Ach anois ó cuimhním air, bhí ardán coincréite sa pháirc."
+  },
+  {
+    "input": "Bhuel, fan ar strae mar sin ó tá tú chomh mímhúinte sin.",
+    "output": "<c>Bhuel</c>, <c>fan</c> <c>ar</c> <c>strae</c> <c>mar</c> <c>sin</c> <c>ó</c> <c>tá</c> <c>tú</c> <c>chomh</c> <c>mímhúinte</c> <c>sin</c>."
+  },
+  {
+    "output": "<c>Ní</c> <c>maith</c> <c>liom</c> <c>é</c> <c>ar</c> <c>chor</c> <c>ar</c> <c>bith</c> <c>ó</c> <c>fuair</c> <c>sé</c> <c>an</c> <c>litir</c> <c>sin</c>.",
+    "input": "Ní maith liom é ar chor ar bith ó fuair sé an litir sin."
+  },
+  {
+    "output": "<c>Tabhair</c> <c>an</c> <c>t-ordú</c> <c>seo</c> <c>leanas</c> <c>ó</c> <c>béal</c>.",
+    "input": "Tabhair an t-ordú seo leanas ó béal."
+  },
+  {
+    "output": "<c>Bíodh</c> <c>bhur</c> <c>ngrá</c> <c>saor</c> <c>ó</c> <c>an</c> <c>chur</c> <c>i</c> <c>gcéill</c>.",
+    "input": "Bíodh bhur ngrá saor ó an chur i gcéill."
+  },
+  {
+    "output": "<c>Beidh</c> <c>an</c> <c>chéad</c> <c>chruinniú</c> <c>oifigiúil</c> <c>ag</c> <c>an</c> <c>gcoiste</c> <c>oíche</c> <c>Dé</c> <c>Luain</c>.",
+    "input": "Beidh an chéad chruinniú oifigiúil ag an gcoiste oíche Dé Luain."
+  },
+  {
+    "input": "Bíodh bhur ngrá saor ón cur i gcéill.",
+    "output": "<c>Bíodh</c> <c>bhur</c> <c>ngrá</c> <c>saor</c> <c>ón</c> <c>cur</c> <c>i</c> <c>gcéill</c>."
+  },
+  {
+    "input": "Ná glacaim sos ón thochailt.",
+    "output": "<c>Ná</c> <c>glacaim</c> <c>sos</c> <c>ón</c> <c>thochailt</c>."
+  },
+  {
+    "output": "<c>Amharcann</c> <c>sé</c> <c>ó</c> <c>a</c> <c>ionad</c> <c>cónaithe</c> <c>ar</c> <c>gach</c> <c>aon</c> <c>neach</c> <c>dá</c> <c>maireann</c> <c>ar</c> <c>talamh</c>.",
+    "input": "Amharcann sé ó a ionad cónaithe ar gach aon neach dá maireann ar talamh."
+  },
+  {
+    "input": "Seo iad a gcéimeanna de réir na n-áiteanna ó ar thosaíodar.",
+    "output": "<c>Seo</c> <c>iad</c> <c>a</c> <c>gcéimeanna</c> <c>de</c> <c>réir</c> <c>na</c> <c>n-áiteanna</c> <c>ó</c> <c>ar</c> <c>thosaíodar</c>."
+  },
+  {
+    "input": "Agus rinne sé ár bhfuascailt ó ár naimhde.",
+    "output": "<c>Agus</c> <c>rinne</c> <c>sé</c> <c>ár</c> <c>bhfuascailt</c> <c>ó</c> <c>ár</c> <c>naimhde</c>."
+  },
+  {
+    "input": "Seo teaghlach ag a bhfuil go leor fadhbanna agus ónar dteastaíonn tacaíocht atá dírithe.",
+    "output": "<c>Seo</c> <c>teaghlach</c> <c>ag</c> <c>a</c> <c>bhfuil</c> <c>go</c> <c>leor</c> <c>fadhbanna</c> <c>agus</c> <c>ónar</c> <c>dteastaíonn</c> <c>tacaíocht</c> <c>atá</c> <c>dírithe</c>."
+  },
+  {
+    "input": "Bhíodh súil in airde againn ónár túir faire.",
+    "output": "<c>Bhíodh</c> <c>súil</c> <c>in</c> <c>airde</c> <c>againn</c> <c>ónár</c> <c>túir</c> <c>faire</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>do</c> <c>ghéaga</c> <c>spréite</c> <c>ar</c> <c>bhraillín</c> <c>ghléigeal</c> <c>os</c> <c>fharraige</c> <c>faoileán</c>.",
+    "input": "Tá do ghéaga spréite ar bhraillín ghléigeal os fharraige faoileán."
+  },
+  {
+    "output": "<c>Ar</c> <c>ais</c> <c>leis</c> <c>ansin</c> <c>os</c> <c>chomhair</c> <c>an</c> <c>teilifíseáin</c>.",
+    "input": "Ar ais leis ansin os chomhair an teilifíseáin."
+  },
+  {
+    "input": "Uaidh féin, b'fhéidir, pé é féin.",
+    "output": "<c>Uaidh</c> <c>féin</c>, <c>b'fhéidir</c>, <c>pé</c> <c>é</c> <c>féin</c>."
+  },
+  {
+    "output": "<c>Agus</c> <c>tháinig</c> <c>scéin</c> <c>air</c> <c>roimh</c> <c>an</c> <c>pobal</c> <c>seo</c> <c>ar</c> <c>a</c> <c>líonmhaireacht</c>.",
+    "input": "Agus tháinig scéin air roimh an pobal seo ar a líonmhaireacht."
+  },
+  {
+    "input": "Is gaiste é eagla roimh daoine.",
+    "output": "<c>Is</c> <c>gaiste</c> <c>é</c> <c>eagla</c> <c>roimh</c> <c>daoine</c>."
+  },
+  {
+    "input": "An bhfuil aon uachtar reoite agat sa oighear?",
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>sa</c> <c>oighear</c>?"
+  },
+  {
+    "input": "Gortaíodh ceathrar sa n-eachtra.",
+    "output": "<c>Gortaíodh</c> <c>ceathrar</c> <c>sa</c> <c>n-eachtra</c>."
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>sa</c> <c>cuisneoir</c>?",
+    "input": "An bhfuil aon uachtar reoite agat sa cuisneoir?"
+  },
+  {
+    "input": "Ní mór dom umhlú agus cic maith sa thóin a thabhairt duit.",
+    "output": "<c>Ní</c> <c>mór</c> <c>dom</c> <c>umhlú</c> <c>agus</c> <c>cic</c> <c>maith</c> <c>sa</c> <c>thóin</c> <c>a</c> <c>thabhairt</c> <c>duit</c>."
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>sa</c> <c>seamair</c>?",
+    "input": "An bhfuil aon uachtar reoite agat sa seamair?"
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>sa</c> <c>scoil</c>?",
+    "input": "An bhfuil aon uachtar reoite agat sa scoil?"
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>sa</c> <c>samhradh</c>?",
+    "input": "An bhfuil aon uachtar reoite agat sa samhradh?"
+  },
+  {
+    "output": "<c>Tá</c> <c>sé</c> <c>bráthair</c> <c>de</c> <c>chuid</c> <c>Ord</c> <c>San</c> <c>Phroinsias</c>.",
+    "input": "Tá sé bráthair de chuid Ord San Phroinsias."
+  },
+  {
+    "input": "San fásach cuirfidh mé crainn chéadrais.",
+    "output": "<c>San</c> <c>fásach</c> <c>cuirfidh</c> <c>mé</c> <c>crainn</c> <c>chéadrais</c>."
+  },
+  {
+    "output": "<c>An</c> <c>bhfuil</c> <c>aon</c> <c>uachtar</c> <c>reoite</c> <c>agat</c> <c>san</c> <c>foraois</c>?",
+    "input": "An bhfuil aon uachtar reoite agat san foraois?"
+  },
+  {
+    "input": "Tugaimid faoi abhainn na Sionainne san bhád locha ó Ros Comáin.",
+    "output": "<c>Tugaimid</c> <c>faoi</c> <c>abhainn</c> <c>na</c> <c>Sionainne</c> <c>san</c> <c>bhád</c> <c>locha</c> <c>ó</c> <c>Ros</c> <c>Comáin</c>."
+  },
+  {
+    "input": "Tógadh an foirgneamh féin san 18ú haois.",
+    "output": "<c>Tógadh</c> <c>an</c> <c>foirgneamh</c> <c>féin</c> <c>san</c> <A pl=\"n\" gnt=\"n\">18ú</A> <c>haois</c>."
+  },
+  {
+    "input": "Ní féidir iad a sheinm le snáthaid ach cúig nó sé uaire.",
+    "output": "<c>Ní</c> <c>féidir</c> <c>iad</c> <c>a</c> <c>sheinm</c> <c>le</c> <c>snáthaid</c> <c>ach</c> <c>cúig</c> <c>nó</c> <c>sé</c> <c>uaire</c>."
+  },
+  {
+    "output": "<c>Dúirt</c> <c>sé</c> <c>uair</c> <c>amháin</c> <c>nach</c> <c>raibh</c> <c>áit</c> <c>eile</c> <c>ar</c> <c>mhaith</c> <c>leis</c> <c>cónaí</c> <c>ann</c>.",
+    "input": "Dúirt sé uair amháin nach raibh áit eile ar mhaith leis cónaí ann."
+  },
+  {
+    "output": "<c>Céard</c> <c>atá</c> <c>ann</c> <c>ná</c> <c>sé</c> <c>cathaoirleach</c> <c>coiste</c>.",
+    "input": "Céard atá ann ná sé cathaoirleach coiste."
+  },
+  {
+    "input": "Cuireadh boscaí ticeála isteach seachas bhoscaí le freagraí a scríobh isteach.",
+    "output": "<c>Cuireadh</c> <c>boscaí</c> <c>ticeála</c> <c>isteach</c> <c>seachas</c> <c>bhoscaí</c> <c>le</c> <c>freagraí</c> <c>a</c> <c>scríobh</c> <c>isteach</c>."
+  },
+  {
+    "input": "Dá ndéanfadh sí amhlaidh réiteodh sí an fhadhb seachas bheith á ghéarú.",
+    "output": "<c>Dá</c> <c>ndéanfadh</c> <c>sí</c> <c>amhlaidh</c> <c>réiteodh</c> <c>sí</c> <c>an</c> <c>fhadhb</c> <c>seachas</c> <c>bheith</c> <c>á</c> <c>ghéarú</c>."
+  },
+  {
+    "output": "<c>Is</c> <c>siad</c> <c>na</c> <c>rudaí</c> <c>crua</c> <c>a</c> <c>mhairfidh</c>.",
+    "input": "Is siad na rudaí crua a mhairfidh."
+  },
+  {
+    "input": "Tá ar a laghad ceithre ní sa litir a chuir scaoll sna oifigigh.",
+    "output": "<c>Tá</c> <c>ar</c> <c>a</c> <c>laghad</c> <c>ceithre</c> <c>ní</c> <c>sa</c> <c>litir</c> <c>a</c> <c>chuir</c> <c>scaoll</c> <c>sna</c> <c>oifigigh</c>."
+  },
+  {
+    "output": "<c>Soláthraíonn</c> <c>an</c> <c>Roinn</c> <c>seisiúin</c> <c>sna</c> <c>Gaeilge</c> <c>labhartha</c> <c>do</c> <c>na</c> <c>mic</c> <c>léinn</c>.",
+    "input": "Soláthraíonn an Roinn seisiúin sna Gaeilge labhartha do na mic léinn."
+  },
+  {
+    "input": "Sula sroicheadar an bun arís, bhí an oíche ann agus chuadar ar strae.",
+    "output": "<c>Sula</c> <c>sroicheadar</c> <c>an</c> <c>bun</c> <c>arís</c>, <c>bhí</c> <c>an</c> <c>oíche</c> <c>ann</c> <c>agus</c> <c>chuadar</c> <c>ar</c> <c>strae</c>."
+  },
+  {
+    "input": "Sula ndearna sé amhlaidh, más ea, léirigh sé a chreidiúint san fhoireann.",
+    "output": "<c>Sula</c> <c>ndearna</c> <c>sé</c> <c>amhlaidh</c>, <c>más</c> <c>ea</c>, <c>léirigh</c> <c>sé</c> <c>a</c> <c>chreidiúint</c> <c>san</c> <c>fhoireann</c>."
+  },
+  {
+    "output": "<c>Iompróidh</c> <c>siad</c> <c>thú</c> <c>lena</c> <c>lámha</c> <c>sula</c> <c>bhuailfeá</c> <c>do</c> <c>chos</c> <c>in</c> <c>aghaidh</c> <c>cloiche</c>.",
+    "input": "Iompróidh siad thú lena lámha sula bhuailfeá do chos in aghaidh cloiche."
+  },
+  {
+    "input": "Ach sular sroich sé, dúirt sí: &quot;Dúnaigí an doras air!&quot;",
+    "output": "<c>Ach</c> <c>sular</c> <c>sroich</c> <c>sé</c>, <c>dúirt</c> <c>sí</c>: &quot;<c>Dúnaigí</c> <c>an</c> <c>doras</c> <c>air</c>!&quot;"
+  },
+  {
+    "output": "<c>Chuir</c> <c>sé</c> <c>iad</c> <c>ina</c> <c>suí</c> <c>mar</c> <c>a</c> <c>raibh</c> <c>onóir</c> <c>acu</c> <c>thar</c> <c>an</c> <c>cuid</c> <c>eile</c> <c>a</c> <c>fuair</c> <c>cuireadh</c>.",
+    "input": "Chuir sé iad ina suí mar a raibh onóir acu thar an cuid eile a fuair cuireadh."
+  },
+  {
+    "output": "<c>Bhí</c> <c>an</c> <c>chathair</c> <c>ag</c> <c>cur</c> <c>thar</c> <c>maol</c> <c>le</c> <c>filí</c> <c>de</c> <c>gach</c> <c>cineál</c>.",
+    "input": "Bhí an chathair ag cur thar maol le filí de gach cineál."
+  },
+  {
+    "input": "Timpeall trí uaire a chloig ina dhiaidh sin tháinig an bhean isteach.",
+    "output": "<c>Timpeall</c> <c>trí</c> <c>uaire</c> <c>a</c> <c>chloig</c> <c>ina</c> <c>dhiaidh</c> <c>sin</c> <c>tháinig</c> <c>an</c> <c>bhean</c> <c>isteach</c>."
+  },
+  {
+    "output": "<c>Scríobhaim</c> <c>chugaibh</c> <c>mar</c> <c>gur</c> <c>maitheadh</c> <c>daoibh</c> <c>bhur</c> <c>bpeacaí</c> <c>trí</c> <c>a</c> <c>ainm</c>.",
+    "input": "Scríobhaim chugaibh mar gur maitheadh daoibh bhur bpeacaí trí a ainm."
+  },
+  {
+    "output": "<c>Cuirtear</c> <c>i</c> <c>láthair</c> <c>na</c> <c>struchtúir</c> <c>trí</c> <c>a</c> <c>reáchtálfar</c> <c>gníomhartha</c> <c>ag</c> <c>an</c> <c>leibhéal</c> <c>náisiúnta</c>.",
+    "input": "Cuirtear i láthair na struchtúir trí a reáchtálfar gníomhartha ag an leibhéal náisiúnta."
+  },
+  {
+    "input": "Ní fhillfidh siad ar an ngeata trí ar ghabh siad isteach.",
+    "output": "<c>Ní</c> <c>fhillfidh</c> <c>siad</c> <c>ar</c> <c>an</c> <c>ngeata</c> <c>trí</c> <c>ar</c> <c>ghabh</c> <c>siad</c> <c>isteach</c>."
+  },
+  {
+    "output": "<c>Beirimid</c> <c>an</c> <c>bua</c> <c>go</c> <c>caithréimeach</c> <c>trí</c> <c>an</c> <c>té</c> <c>úd</c> <c>a</c> <c>thug</c> <c>grá</c> <c>dúinn</c>.",
+    "input": "Beirimid an bua go caithréimeach trí an té úd a thug grá dúinn."
+  },
+  {
+    "input": "Coinníodh lenár sála sa chaoi nárbh fhéidir siúl trí ár sráideanna.",
+    "output": "<c>Coinníodh</c> <c>lenár</c> <c>sála</c> <c>sa</c> <c>chaoi</c> <c>nárbh</c> <c>fhéidir</c> <c>siúl</c> <c>trí</c> <c>ár</c> <c>sráideanna</c>."
+  },
+  {
+    "input": "Gabhfaidh siad trí muir na hÉigipte.",
+    "output": "<c>Gabhfaidh</c> <c>siad</c> <c>trí</c> <c>muir</c> <c>na</c> <c>hÉigipte</c>."
+  },
+  {
+    "output": "<c>Feidhmeoidh</c> <c>an</c> <c>ciste</c> <c>coimisiúnaithe</c> <c>tríd</c> <c>na</c> <c>foilsitheoirí</c> <c>go</c> <c>príomha</c>.",
+    "input": "Feidhmeoidh an ciste coimisiúnaithe tríd na foilsitheoirí go príomha."
+  },
+  {
+    "input": "Ba é an gleann cúng trína ghabh an abhainn.",
+    "output": "<c>Ba</c> <c>é</c> <c>an</c> <c>gleann</c> <c>cúng</c> <c>trína</c> <c>ghabh</c> <c>an</c> <c>abhainn</c>."
+  },
+  {
+    "output": "<c>Is</c> <c>mar</c> <c>a</c> <c>chéile</c> <c>an</c> <c>próiseas</c> <c>trínar</c> <c>ndéantar</c> <c>é</c> <c>seo</c>.",
+    "input": "Is mar a chéile an próiseas trínar ndéantar é seo."
+  },
+  {
+    "input": "Mar trínár peacaí, tá do phobal ina ábhar gáire ag cách máguaird orainn.",
+    "output": "<c>Mar</c> <c>trínár</c> <c>peacaí</c>, <c>tá</c> <c>do</c> <c>phobal</c> <c>ina</c> <c>ábhar</c> <c>gáire</c> <c>ag</c> <c>cách</c> <c>máguaird</c> <c>orainn</c>."
+  },
+  {
+    "input": "Beidh cúrsa Gaeilge ar siúl do mhic léinn in Áras Mháirtín Uí Cadhain.",
+    "output": "<c>Beidh</c> <c>cúrsa</c> <c>Gaeilge</c> <c>ar</c> <c>siúl</c> <c>do</c> <c>mhic</c> <c>léinn</c> <c>in</c> <c>Áras</c> <c>Mháirtín</c> <c>Uí</c> <c>Cadhain</c>."
+  },
+  {
+    "output": "<c>Nár</c> <c>thug</c> <c>sí</c> <c>póg</c> <c>do</c> <c>gach</c> <c>uile</c> <c>duine</c>?",
+    "input": "Nár thug sí póg do gach uile duine?"
+  },
+  {
+    "input": "D'ith na daoine uile bia.",
+    "output": "<c>D'ith</c> <c>na</c> <c>daoine</c> <c>uile</c> <c>bia</c>."
+  },
+  {
+    "input": "Idir dhá sholas, um tráthnóna, faoi choim na hoíche agus sa dorchadas.",
+    "output": "<c>Idir</c> <c>dhá</c> <c>sholas</c>, <c>um</c> <c>tráthnóna</c>, <c>faoi</c> <c>choim</c> <c>na</c> <c>hoíche</c> <c>agus</c> <c>sa</c> <c>dorchadas</c>."
+  },
+  {
+    "output": "<c>Straitéis</c> <c>Chomhphobail</c> <c>um</c> <c>bainistíocht</c> <c>dramhaíola</c>.",
+    "input": "Straitéis Chomhphobail um bainistíocht dramhaíola."
+  },
+  {
+    "output": "<c>Bhíodh</c> <c>an</c> <c>dinnéar</c> <c>acu</c> <c>um</c> <c>mheán</c> <c>lae</c>.",
+    "input": "Bhíodh an dinnéar acu um mheán lae."
+  },
+  {
+    "input": "Conas a bheadh Éirinn agus Meiriceá difriúil?",
+    "output": "<c>Conas</c> <c>a</c> <c>bheadh</c> <c>Éirinn</c> <c>agus</c> <c>Meiriceá</c> <c>difriúil</c>?"
+  },
+  {
+    "output": "<c>Ba</c> <c>chois</c> <c>tine</c> <c>é</c>.",
+    "input": "Ba chois tine é."
+  },
+  {
+    "output": "<c>Bhí</c> <c>cuid</c> <c>mhór</c> <c>teannais</c> <c>agus</c> <c>iomaíochta</c> <c>ann</c>.",
+    "input": "Bhí cuid mhór teannais agus iomaíochta ann."
+  },
+  {
+    "input": "Galar crúibe is béil.",
+    "output": "<c>Galar</c> <c>crúibe</c> <c>is</c> <c>béil</c>."
+  },
+  {
+    "input": "Caitheann sé go leor ama ann.",
+    "output": "<c>Caitheann</c> <c>sé</c> <c>go</c> <c>leor</c> <c>ama</c> <c>ann</c>."
+  },
+  {
+    "output": "<c>An</c> <c>raibh</c> <c>mórán</c> <c>daoine</c> <c>ag</c> <c>an</c> <c>tsiopa</c>?",
+    "input": "An raibh mórán daoine ag an tsiopa?"
+  },
+  {
+    "input": "Ní raibh dúil bheo le feiceáil ar na bhfuinneog.",
+    "output": "<c>Ní</c> <c>raibh</c> <c>dúil</c> <c>bheo</c> <c>le</c> <c>feiceáil</c> <c>ar</c> <c>na</c> <c>bhfuinneog</c>."
+  },
+  {
+    "output": "<c>Bhí</c>, <c>dála</c> <c>an</c> <c>scéil</c>, <c>ocht</c> <c>mbean</c> <c>déag</c> <c>aige</c>.",
+    "input": "Bhí, dála an scéil, ocht mbean déag aige."
+  },
+  {
+    "input": "Cá bhfuil an tseomra?",
+    "output": "<c>Cá</c> <c>bhfuil</c> <c>an</c> <c>tseomra</c>?"
+  },
+  {
+    "output": "<c>Is</c> <c>iad</c> <c>na</c> <c>nGardaí</c>.",
+    "input": "Is iad na nGardaí."
+  },
+  {
+    "input": "Éirí Amach na Cásca.",
+    "output": "<c>Éirí</c> <c>Amach</c> <c>na</c> <c>Cásca</c>."
+  },
+  {
+    "output": "<c>Leas</c> <c>phobal</c> <c>na</c> <c>hÉireann</c> <c>agus</c> <c>na</c> <c>hEorpa</c>.",
+    "input": "Leas phobal na hÉireann agus na hEorpa."
+  },
+  {
+    "input": "Fáilte an deamhain is an diabhail romhat.",
+    "output": "<c>Fáilte</c> <c>an</c> <c>deamhain</c> <c>is</c> <c>an</c> <c>diabhail</c> <c>romhat</c>."
+  },
+  {
+    "input": "Go deo na ndeor, go deo na díleann.",
+    "output": "<c>Go</c> <c>deo</c> <c>na</c> <c>ndeor</c>, <c>go</c> <c>deo</c> <c>na</c> <c>díleann</c>."
+  },
+  {
+    "input": "Clann na bPoblachta a thug siad orthu féin.",
+    "output": "<c>Clann</c> <c>na</c> <c>bPoblachta</c> <c>a</c> <c>thug</c> <c>siad</c> <c>orthu</c> <c>féin</c>."
+  },
+  {
+    "input": "Cruthaíodh an chloch sin go domhain faoin dtalamh.",
+    "output": "<c>Cruthaíodh</c> <c>an</c> <c>chloch</c> <c>sin</c> <c>go</c> <c>domhain</c> <c>faoin</c> <c>dtalamh</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>ainm</c> <c>in</c> <c>n-easnamh</c> <c>a</c> <c>mbeadh</c> <c>coinne</c> <c>agat</c> <c>leis</c>.",
+    "input": "Tá ainm in n-easnamh a mbeadh coinne agat leis."
+  },
+  {
+    "output": "<c>Tá</c> <c>muid</c> <c>compordach</c> <c>inar</c> <c>gcuid</c> &quot;<c>fírinní</c>&quot; <c>féin</c>.",
+    "input": "Tá muid compordach inar gcuid &quot;fírinní&quot; féin."
+  },
+  {
+    "output": "<c>Tá</c> <c>siad</c> <c>ag</c> <c>éileamh</c> <c>go</c> <c>n-íocfaí</c> <c>iad</c> <c>as</c> <c>a</c> <c>gcuid</c> <c>costais</c> <c>agus</c> <c>iad</c> <c>mbun</c> <c>traenála</c>.",
+    "input": "Tá siad ag éileamh go n-íocfaí iad as a gcuid costais agus iad mbun traenála."
+  },
+  {
+    "input": "Cruthaíodh an chloch sin go domhain faoin gcrann.",
+    "output": "<c>Cruthaíodh</c> <c>an</c> <c>chloch</c> <c>sin</c> <c>go</c> <c>domhain</c> <c>faoin</c> <c>gcrann</c>."
+  },
+  {
+    "input": "An n-ólfaidh tú rud éigin?",
+    "output": "<c>An</c> <c>n-ólfaidh</c> <c>tú</c> <c>rud</c> <c>éigin</c>?"
+  },
+  {
+    "output": "<c>Nach</c> <c>holc</c> <c>an</c> <c>mhaise</c> <c>duit</c> <c>a</c> <c>bheith</c> <c>ag</c> <c>magadh</c>.",
+    "input": "Nach holc an mhaise duit a bheith ag magadh."
+  },
+  {
+    "input": "Dún do bhéal, a mhiúil na haon chloiche!",
+    "output": "<c>Dún</c> <c>do</c> <c>bhéal</c>, <c>a</c> <c>mhiúil</c> <c>na</c> <c>haon</c> <c>chloiche</c>!"
+  },
+  {
+    "input": "Scaoileadh seachtar duine chun báis i mBaile Átha Cliath le hocht mí anuas.",
+    "output": "<c>Scaoileadh</c> <c>seachtar</c> <c>duine</c> <c>chun</c> <c>báis</c> <c>i</c> <c>mBaile</c> <c>Átha</c> <c>Cliath</c> <c>le</c> <c>hocht</c> <c>mí</c> <c>anuas</c>."
+  },
+  {
+    "output": "<c>Ní</c> <c>dhúnfaidh</c> <c>an</c> <c>t-ollmhargadh</c> <c>go</c> <c>dtí</c> <c>a</c> <c>haon</c> <c>a</c> <c>chlog</c> <c>ar</c> <c>maidin</c>.",
+    "input": "Ní dhúnfaidh an t-ollmhargadh go dtí a haon a chlog ar maidin."
+  },
+  {
+    "input": "Is mar gheall ar sin atá líníocht phictiúrtha chomh húsáideach sin.",
+    "output": "<c>Is</c> <c>mar</c> <c>gheall</c> <c>ar</c> <c>sin</c> <c>atá</c> <c>líníocht</c> <c>phictiúrtha</c> <c>chomh</c> <c>húsáideach</c> <c>sin</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>sí</c> <c>ag</c> <c>feidhmiú</c> <c>go</c> <c>héifeachtach</c>.",
+    "input": "Tá sí ag feidhmiú go héifeachtach."
+  },
+  {
+    "input": "Ní hionann cuingir na ngabhar agus cuingir na lánúine.",
+    "output": "<c>Ní</c> <c>hionann</c> <c>cuingir</c> <c>na</c> <c>ngabhar</c> <c>agus</c> <c>cuingir</c> <c>na</c> <c>lánúine</c>."
+  },
+  {
+    "output": "<c>Ba</c> <c>hiad</c> <c>na</c> <c>hamhráin</c> <c>i</c> <c>dtosach</c> <c>ba</c> <c>chúis</c> <c>leis</c>.",
+    "input": "Ba hiad na hamhráin i dtosach ba chúis leis."
+  },
+  {
+    "output": "<c>Ní</c> <c>hé</c> <c>lá</c> <c>na</c> <c>gaoithe</c> <c>lá</c> <c>na</c> <c>scolb</c>.",
+    "input": "Ní hé lá na gaoithe lá na scolb."
+  },
+  {
+    "output": "<c>Ba</c> <c>iad</c> <c>na</c> <c>trí</c> <c>háit</c> <c>iad</c> <c>Bostún</c>, <c>Baile</c> <c>Átha</c> <c>Cliath</c> <c>agus</c> <c>Nua</c> <c>Eabhrac</c>.",
+    "input": "Ba iad na trí háit iad Bostún, Baile Átha Cliath agus Nua Eabhrac."
+  },
+  {
+    "output": "<c>Phós</c> <c>sé</c> <c>bean</c> <c>eile</c> <c>ina</c> <c>háit</c>.",
+    "input": "Phós sé bean eile ina háit."
+  },
+  {
+    "input": "Cá ham a tháinig sí a staidéar anseo ó thús?",
+    "output": "<c>Cá</c> <c>ham</c> <c>a</c> <c>tháinig</c> <c>sí</c> <c>a</c> <c>staidéar</c> <c>anseo</c> <c>ó</c> <c>thús</c>?"
+  },
+  {
+    "input": "Bhí a dheartháir ag siúl na gceithre hairde agus bhí seisean ina shuí.",
+    "output": "<c>Bhí</c> <c>a</c> <c>dheartháir</c> <c>ag</c> <c>siúl</c> <c>na</c> <c>gceithre</c> <c>hairde</c> <c>agus</c> <c>bhí</c> <c>seisean</c> <c>ina</c> <c>shuí</c>."
+  },
+  {
+    "output": "<c>Chaith</c> <c>sé</c> <c>an</c> <c>dara</c> <c>hoíche</c> <c>i</c> <c>Sligeach</c>.",
+    "input": "Chaith sé an dara hoíche i Sligeach."
+  },
+  {
+    "input": "Tá sé i gcóip a rinneadh i lár na cúigiú haoise déag.",
+    "output": "<c>Tá</c> <c>sé</c> <c>i</c> <c>gcóip</c> <c>a</c> <c>rinneadh</c> <c>i</c> <c>lár</c> <c>na</c> <c>cúigiú</c> <c>haoise</c> <c>déag</c>."
+  },
+  {
+    "output": "<c>Chuir</c> <c>sí</c> <c>a</c> <c>dhá</c> <c>huillinn</c> <c>ar</c> <c>an</c> <c>bhord</c>.",
+    "input": "Chuir sí a dhá huillinn ar an bhord."
+  },
+  {
+    "input": "Chuir mé mo dhá huillinn ar an bhord.",
+    "output": "<c>Chuir</c> <c>mé</c> <c>mo</c> <c>dhá</c> <c>huillinn</c> <c>ar</c> <c>an</c> <c>bhord</c>."
+  },
+  {
+    "output": "<c>Cuireadh</c> <c>cuid</c> <c>mhaith</c> <c>acu</c> <c>go</c> <c>hÉirinn</c>.",
+    "input": "Cuireadh cuid mhaith acu go hÉirinn."
+  },
+  {
+    "output": "<c>Tá</c> <c>tús</c> <c>curtha</c> <c>le</c> <c>clár</c> <c>chun</c> <c>rampaí</c> <c>luchtaithe</c> <c>a</c> <c>chur</c> <c>sna</c> <c>hotharcharranna</c>.",
+    "input": "Tá tús curtha le clár chun rampaí luchtaithe a chur sna hotharcharranna."
+  },
+  {
+    "input": "Cuimhnígí ar na héachtaí a rinne sé.",
+    "output": "<c>Cuimhnígí</c> <c>ar</c> <c>na</c> <c>héachtaí</c> <c>a</c> <c>rinne</c> <c>sé</c>."
+  },
+  {
+    "output": "<c>Creidim</c> <c>go</c> <c>mbeidh</c> <c>iontas</c> <c>ar</c> <c>mhuintir</c> <c>na</c> <c>hÉireann</c> <c>nuair</c> <c>a</c> <c>fheiceann</c> <c>siad</c> <c>an</c> <c>feidhmchlár</c> <c>seo</c>.",
+    "input": "Creidim go mbeidh iontas ar mhuintir na hÉireann nuair a fheiceann siad an feidhmchlár seo."
+  },
+  {
+    "input": "Tháinig múinteoir úr i gceithre huaire fichead.",
+    "output": "<c>Tháinig</c> <c>múinteoir</c> <c>úr</c> <c>i</c> <c>gceithre</c> <c>huaire</c> <c>fichead</c>."
+  },
+  {
+    "input": "Caithfidh siad turas cúig huaire a chloig a dhéanamh.",
+    "output": "<c>Caithfidh</c> <c>siad</c> <c>turas</c> <c>cúig</c> <c>huaire</c> <c>a</c> <c>chloig</c> <c>a</c> <c>dhéanamh</c>."
+  },
+  {
+    "output": "<c>In</c> <c>Éirinn</c> <c>chaitheann</c> <c>breis</c> <c>is</c> <A>30</A> <c>faoin</c> <c>gcéad</c> <c>de</c> <c>mhná</c> <c>toitíní</c>.",
+    "input": "In Éirinn chaitheann breis is 30 faoin gcéad de mhná toitíní."
+  },
+  {
+    "output": "<c>Chuirfear</c> <c>in</c> <c>iúl</c> <c>do</c> <c>dhaoine</c> <c>gurb</c> <c>é</c> <c>sin</c> <c>an</c> <c>aidhm</c> <c>atá</c> <c>againn</c>.",
+    "input": "Chuirfear in iúl do dhaoine gurb é sin an aidhm atá againn."
+  },
+  {
+    "input": "Déan cur síos ar dhá thoradh a bhíonn ag caitheamh tobac ar an tsláinte.",
+    "output": "<c>Déan</c> <c>cur</c> <c>síos</c> <c>ar</c> <c>dhá</c> <c>thoradh</c> <c>a</c> <c>bhíonn</c> <c>ag</c> <c>caitheamh</c> <c>tobac</c> <c>ar</c> <c>an</c> <c>tsláinte</c>."
+  },
+  {
+    "input": "Má bhrúitear idir chnónna agus bhlaoscanna faightear ola inchaite.",
+    "output": "<c>Má</c> <c>bhrúitear</c> <c>idir</c> <c>chnónna</c> <c>agus</c> <c>bhlaoscanna</c> <c>faightear</c> <c>ola</c> <c>inchaite</c>."
+  },
+  {
+    "output": "<c>Ní</c> <c>chothaíonn</c> <c>na</c> <c>briathra</c> <c>na</c> <c>bráithre</c>.",
+    "input": "Ní chothaíonn na briathra na bráithre."
+  },
+  {
+    "input": "Cha bhíonn striapachas agus seafóid Mheiriceá ann feasta.",
+    "output": "<c>Cha</c> <c>bhíonn</c> <c>striapachas</c> <c>agus</c> <c>seafóid</c> <c>Mheiriceá</c> <c>ann</c> <c>feasta</c>."
+  },
+  {
+    "input": "Tá cleachtadh ag daoine ó bhíonn siad an-óg ar uaigneas imeachta.",
+    "output": "<c>Tá</c> <c>cleachtadh</c> <c>ag</c> <c>daoine</c> <c>ó</c> <c>bhíonn</c> <c>siad</c> <c>an-óg</c> <c>ar</c> <c>uaigneas</c> <c>imeachta</c>."
+  },
+  {
+    "input": "Ar an láithreán seo gheofar foclóirí agus liostaí téarmaíochta.",
+    "output": "<c>Ar</c> <c>an</c> <c>láithreán</c> <c>seo</c> <c>gheofar</c> <c>foclóirí</c> <c>agus</c> <c>liostaí</c> <c>téarmaíochta</c>."
+  },
+  {
+    "output": "<c>An</c> <c>oíche</c> <c>sin</c>, <c>sular</c> <c>chuaigh</c> <c>sé</c> <c>a</c> <c>chodladh</c>, <c>chuir</c> <c>sé</c> <c>litir</c> <c>fhada</c> <c>dom</c>.",
+    "input": "An oíche sin, sular chuaigh sé a chodladh, chuir sé litir fhada dom."
+  },
+  {
+    "input": "Tá mioneolas faoinar rinne sé ansin.",
+    "output": "<c>Tá</c> <c>mioneolas</c> <c>faoinar</c> <c>rinne</c> <c>sé</c> <c>ansin</c>."
+  },
+  {
+    "output": "<c>Níor</c> <c>rinneadh</c> <c>a</c> <c>leithéid</c> <c>le</c> <c>fada</c> <c>agus</c> <c>ní</c> <c>raibh</c> <c>aon</c> <c>slat</c> <c>tomhais</c> <c>acu</c>.",
+    "input": "Níor rinneadh a leithéid le fada agus ní raibh aon slat tomhais acu."
+  },
+  {
+    "input": "Teastaíonn uaidh an scéal a insint sula ngeobhaidh sé bás.",
+    "output": "<c>Teastaíonn</c> <c>uaidh</c> <c>an</c> <c>scéal</c> <c>a</c> <c>insint</c> <c>sula</c> <c>ngeobhaidh</c> <c>sé</c> <c>bás</c>."
+  },
+  {
+    "input": "Tá folúntas sa chomhlacht ina tá mé ag obair faoi láthair.",
+    "output": "<c>Tá</c> <c>folúntas</c> <c>sa</c> <c>chomhlacht</c> <c>ina</c> <c>tá</c> <c>mé</c> <c>ag</c> <c>obair</c> <c>faoi</c> <c>láthair</c>."
+  },
+  {
+    "input": "Ní gheobhaidh an mealltóir nathrach aon táille.",
+    "output": "<c>Ní</c> <c>gheobhaidh</c> <c>an</c> <c>mealltóir</c> <c>nathrach</c> <c>aon</c> <c>táille</c>."
+  },
+  {
+    "input": "Má dhearna sí praiseach de, thosaigh sí arís go bhfuair sí ceart é.",
+    "output": "<c>Má</c> <c>dhearna</c> <c>sí</c> <c>praiseach</c> <c>de</c>, <c>thosaigh</c> <c>sí</c> <c>arís</c> <c>go</c> <c>bhfuair</c> <c>sí</c> <c>ceart</c> <c>é</c>."
+  },
+  {
+    "output": "<c>Nuair</c> <c>a</c> <c>raibh</c> <c>mé</c> <c>óg</c>.",
+    "input": "Nuair a raibh mé óg."
+  },
+  {
+    "input": "An clapsholas a raibh mé ag dréim leis.",
+    "output": "<c>An</c> <c>clapsholas</c> <c>a</c> <c>raibh</c> <c>mé</c> <c>ag</c> <c>dréim</c> <c>leis</c>."
+  },
+  {
+    "input": "Chan fhacthas dom go raibh an saibhreas céanna i mBéarla.",
+    "output": "<c>Chan</c> <c>fhacthas</c> <c>dom</c> <c>go</c> <c>raibh</c> <c>an</c> <c>saibhreas</c> <c>céanna</c> <c>i</c> <c>mBéarla</c>."
+  },
+  {
+    "input": "Chuaigh sé chun na huaimhe agus fhéach sé isteach.",
+    "output": "<c>Chuaigh</c> <c>sé</c> <c>chun</c> <c>na</c> <c>huaimhe</c> <c>agus</c> <c>fhéach</c> <c>sé</c> <c>isteach</c>."
+  },
+  {
+    "output": "<c>Fágadh</c> <c>faoi</c> <c>smacht</c> <c>a</c> <c>lámh</c> <c>iad</c>.",
+    "input": "Fágadh faoi smacht a lámh iad."
+  },
+  {
+    "input": "An íosfá ubh eile?",
+    "output": "<c>An</c> <c>íosfá</c> <c>ubh</c> <c>eile</c>?"
+  },
+  {
+    "input": "Níorbh fhada, ámh, gur d'fhoghlaim sí an téarma ceart uathu.",
+    "output": "<c>Níorbh</c> <c>fhada</c>, <c>ámh</c>, <c>gur</c> <c>d'fhoghlaim</c> <c>sí</c> <c>an</c> <c>téarma</c> <c>ceart</c> <c>uathu</c>."
+  },
+  {
+    "output": "<c>Nílim</c> <c>ag</c> <c>rá</c> <c>gur</c> <c>d'aon</c> <c>ghuth</c> <c>a</c> <c>ainmníodh</c> <c>Sheehy</c>.",
+    "input": "Nílim ag rá gur d'aon ghuth a ainmníodh Sheehy."
+  },
+  {
+    "output": "<c>Scríobh</c> <c>sé</c> <c>soiscéal</c> <c>ina</c> <c>d'athródh</c> <c>an</c> <c>eaglais</c> <c>í</c> <c>féin</c> <c>go</c> <c>deo</c>.",
+    "input": "Scríobh sé soiscéal ina d'athródh an eaglais í féin go deo."
+  },
+  {
+    "input": "Tá bonn i bhfad níos dhoimhne ná sin le Féilte an Oireachtais.",
+    "output": "<c>Tá</c> <c>bonn</c> <c>i</c> <c>bhfad</c> <c>níos</c> <c>dhoimhne</c> <c>ná</c> <c>sin</c> <c>le</c> <c>Féilte</c> <c>an</c> <c>Oireachtais</c>."
+  },
+  {
+    "input": "Tá a chuid leabhar tiontaithe go dhá theanga fichead.",
+    "output": "<c>Tá</c> <c>a</c> <c>chuid</c> <c>leabhar</c> <c>tiontaithe</c> <c>go</c> <c>dhá</c> <c>theanga</c> <c>fichead</c>."
+  },
+  {
+    "output": "<c>Tá</c> <c>dún</c> <c>cosanta</c> <c>eile</c> <c>ar</c> <c>an</c> <c>taobh</c> <c>thoir</c> <c>den</c> <c>oileán</c>.",
+    "input": "Tá dún cosanta eile ar an taobh thoir den oileán."
+  },
+  {
+    "input": "Déan teagmháil leis an Rannóg ag an seoladh thuasluaite.",
+    "output": "<c>Déan</c> <c>teagmháil</c> <c>leis</c> <c>an</c> <c>Rannóg</c> <c>ag</c> <c>an</c> <c>seoladh</c> <c>thuasluaite</c>."
+  },
+  {
+    "output": "<c>Nochtadh</c> <c>na</c> <c>fírinne</c> <c>sa</c> <c>dóigh</c> <c>a</c> <c>n-admhódh</c> <c>an</c> <c>té</c> <c>is</c> <c>bréagaí</c> <c>í</c>.",
+    "input": "Nochtadh na fírinne sa dóigh a n-admhódh an té is bréagaí í."
+  },
+  {
+    "output": "<c>Abairt</c> <c>a</c> <c>chuireann</c> <c>in</c> <c>iúl</c> <c>dearóile</c> <c>na</c> <c>hÉireann</c> <c>sa</c> <A pl=\"n\" gnt=\"n\">18ú</A> <c>agus</c> <c>sa</c> <A pl=\"n\" gnt=\"n\">19ú</A> <c>haois</c>.",
+    "input": "Abairt a chuireann in iúl dearóile na hÉireann sa 18ú agus sa 19ú haois."
+  },
+  {
+    "output": "<c>Oíche</c> <c>na</c> <c>gaoithe</c> <c>móra</c>.",
+    "input": "Oíche na gaoithe móra."
+  },
+  {
+    "input": "Oíche na gaoithe mór.",
+    "output": "<c>Oíche</c> <c>na</c> <c>gaoithe</c> <c>mór</c>."
+  },
+  {
+    "input": "Tá a chumas sa Ghaeilge níos airde ná cumas na bhfear óga.",
+    "output": "<c>Tá</c> <c>a</c> <c>chumas</c> <c>sa</c> <c>Ghaeilge</c> <c>níos</c> <c>airde</c> <c>ná</c> <c>cumas</c> <c>na</c> <c>bhfear</c> <c>óga</c>."
+  },
+  {
+    "input": "Beirt bhan Mheiriceánacha a bhí ann.",
+    "output": "<c>Beirt</c> <c>bhan</c> <c>Mheiriceánacha</c> <c>a</c> <c>bhí</c> <c>ann</c>."
+  },
+  {
+    "input": "Tá sé-- tá sé- mo ---shin-seanathair.",
+    "output": "<c>Tá</c> <c>sé</c>-- <c>tá</c> <c>sé</c>- <c>mo</c> ---<c>shin-seanathair</c>."
+  },
+  {
+    "output": "<c>Is</c> <c>foláir</c> <c>dóibh</c> <c>a</c> <c>ndualgais</c> <c>a</c> <c>chomhlíonadh</c>.",
+    "input": "Is foláir dóibh a ndualgais a chomhlíonadh."
+  },
+  {
+    "input": "Bhain na toibreacha le re eile agus le dream daoine atá imithe.",
+    "output": "<c>Bhain</c> <c>na</c> <c>toibreacha</c> <c>le</c> <c>re</c> <c>eile</c> <c>agus</c> <c>le</c> <c>dream</c> <c>daoine</c> <c>atá</c> <c>imithe</c>."
+  },
+  {
+    "output": "<c>Labhair</c> <c>mé</c> <c>ar</c> <c>shon</c> <c>na</c> <c>daoine</c>.",
+    "input": "Labhair mé ar shon na daoine."
+  },
+  {
+    "output": "<c>Tá</c> <c>sé</c> <c>tábhachtach</c> <c>bheith</c> <c>ag</c> <c>obair</c> <c>an</c> <c>son</c> <c>na</c> <c>cearta</c>.",
+    "input": "Tá sé tábhachtach bheith ag obair an son na cearta."
+  },
+  {
+    "output": "<c>Ba</c> <c>é</c> <c>an</c> <c>fear</c> <c>an</c> <c>phortaigh</c> <c>a</c> <c>tháinig</c> <c>thart</c> <c>leis</c> <c>na</c> <c>plátaí</c> <c>bia</c>.",
+    "input": "Ba é an fear an phortaigh a tháinig thart leis na plátaí bia."
+  },
+  {
+    "input": "Tá dhá shiombail ag an bharr gach leathanaigh.",
+    "output": "<c>Tá</c> <c>dhá</c> <c>shiombail</c> <c>ag</c> <c>an</c> <c>bharr</c> <c>gach</c> <c>leathanaigh</c>."
+  },
+  {
+    "output": "<c>Tabharfaimid</c> <c>an</c> <c>t-ainm</c> <c>do</c> <c>mháthar</c> <c>uirthi</c>.",
+    "input": "Tabharfaimid an t-ainm do mháthar uirthi."
+  },
+  {
+    "output": "<c>Is</c> <c>iad</c> <c>na</c> <c>trí</c> <c>cheist</c> <c>sin</c>.",
+    "input": "Is iad na trí cheist sin."
+  },
+  {
+    "output": "<c>Lena</c> <c>chois</c> <c>sin</c>, <c>dá</c> <c>bharr</c> <c>seo</c>, <c>dá</c> <c>bhrí</c> <c>sin</c>, <c>ina</c> <c>aghaidh</c> <c>seo</c>.",
+    "input": "Lena chois sin, dá bharr seo, dá bhrí sin, ina aghaidh seo."
+  },
+  {
+    "input": "Cén t-ionadh sin?",
+    "output": "<c>Cén</c> <c>t-ionadh</c> <c>sin</c>?"
+  },
+  {
+    "input": "Ba é an fear an phortaigh a tháinig thart leis na plátaí bia.",
+    "output": "<c>Ba</c> <c>é</c> <c>an</c> <c>fear</c> <c>an</c> <c>phortaigh</c> <c>a</c> <c>tháinig</c> <c>thart</c> <c>leis</c> <c>na</c> <c>plátaí</c> <c>bia</c>."
+  },
+  {
+    "input": "Tá dhá shiombail ag an bharr gach leathanaigh.",
+    "output": "<c>Tá</c> <c>dhá</c> <c>shiombail</c> <c>ag</c> <c>an</c> <c>bharr</c> <c>gach</c> <c>leathanaigh</c>."
+  },
+  {
+    "output": "<c>Tabharfaimid</c> <c>an</c> <c>t-ainm</c> <c>do</c> <c>mháthar</c> <c>uirthi</c>.",
+    "input": "Tabharfaimid an t-ainm do mháthar uirthi."
+  },
+  {
+    "output": "<c>This</c> <c>is</c> <c>a</c> <c>test</c> <c>sentence</c>.",
+    "input": "This is a test sentence."
+  },
+  {
+    "input": "Visit my website at https://example.com for more information.",
+    "output": "<c>Visit</c> <c>my</c> <c>website</c> <c>at</c> <Y>https://example.com</Y> <c>for</c> <c>more</c> <c>information</c>."
+  },
+  {
+    "output": "<c>I</c> <c>have</c> <A>10</A> <c>apples</c> <c>and</c> <A>5</A> <c>oranges</c>.",
+    "input": "I have 10 apples and 5 oranges."
+  },
+  {
+    "input": "I like to eat apples and oranges.",
+    "output": "<c>I</c> <c>like</c> <c>to</c> <c>eat</c> <c>apples</c> <c>and</c> <c>oranges</c>."
+  },
+  {
+    "input": "Éireann go brách!",
+    "output": "<c>Éireann</c> <c>go</c> <c>brách</c>!"
+  }
+]

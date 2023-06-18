@@ -41,6 +41,7 @@ my $gr = new Lingua::GA::Gramadoir(
 	input_encoding => 'utf-8',
 );
 
+$DB::single = 1;
 my $errs = $gr->grammatical_errors(encode('UTF-8', $input));
 my @errs_json;
 foreach my $error (@$errs) {
